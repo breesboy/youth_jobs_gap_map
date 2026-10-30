@@ -1,0 +1,72 @@
+{
+ "data_status": "nisr",
+ "source_dir": "data\\raw",
+ "youth_definition": "ages 16 to 30",
+ "components": [
+  "idle_youth",
+  "unemployment",
+  "low_quality_work",
+  "education_mismatch"
+ ],
+ "weights": {
+  "idle_youth": 0.25,
+  "unemployment": 0.25,
+  "low_quality_work": 0.25,
+  "education_mismatch": 0.25
+ },
+ "seed": 42,
+ "districts": 30,
+ "total_youth_population": 3579693,
+ "sensitivity": {
+  "draws": 2000,
+  "seed": 42,
+  "median_spearman": 0.8398,
+  "min_spearman": 0.4331,
+  "p5_spearman": 0.6239,
+  "mean_top5_overlap": 0.7713,
+  "drop_one_spearman": {
+   "idle_youth": 0.9221,
+   "unemployment": 0.8078,
+   "low_quality_work": 0.903,
+   "education_mismatch": 0.7989
+  },
+  "ranking_holds": false
+ },
+ "cleaning": {
+  "census": {
+   "rows_in": 353881,
+   "dropped_unknown_district": 0,
+   "dropped_not_youth_or_missing_age": 0,
+   "dropped_missing_or_nonpositive_weight": 0,
+   "dropped_unknown_activity": 0,
+   "graduate_set_to_missing": 1025,
+   "education_set_to_missing": 42,
+   "occupation_set_to_missing": 5,
+   "sector_set_to_missing": 2819,
+   "rows_out": 353881
+  },
+  "surveys": {
+   "lfs_rows_in": 90,
+   "lfs_rows_dropped": 0,
+   "growth_years": [
+    2024,
+    2025
+   ],
+   "thin_growth_cells": 4
+  },
+  "training": {
+   "rows_in": 1274,
+   "dropped_unknown_district": 0,
+   "dropped_not_accredited": 0,
+   "dropped_duplicates": 0,
+   "unmapped_rows": 0,
+   "unmapped_trades": [],
+   "rows_out": 1274
+  }
+ },
+ "flag_thresholds": {
+  "min_youth_sample": 300,
+  "min_graduate_sample": 40,
+  "min_trades_listed": 3
+ }
+}

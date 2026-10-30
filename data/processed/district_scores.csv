@@ -1,0 +1,31 @@
+district,province,rank,gap_score,idle_youth,unemployment,low_quality_work,education_mismatch,youth_population,poverty_rate,top_sectors,flags
+Gicumbi,Northern,1,75.57,0.437,0.2382,0.804,0.3856,123448,0.1331,Manufacturing; Transport & logistics; Tourism & hospitality,
+Rutsiro,Western,2,73.26,0.4209,0.1847,0.8412,0.429,98627,0.4078,Public & other services; Tourism & hospitality; Mining,
+Burera,Northern,3,69.28,0.4264,0.1599,0.8647,0.4098,112899,0.2204,Manufacturing; Tourism & hospitality; Construction,
+Nyaruguru,Southern,4,68.31,0.4381,0.2287,0.8132,0.3309,80280,0.397,Construction; ICT; Tourism & hospitality,Sector growth rests on thin survey cells for: ICT.
+Nyamasheke,Western,5,63.43,0.4048,0.2168,0.803,0.3404,102705,0.4281,Public & other services; Manufacturing; ICT,Sector growth rests on thin survey cells for: ICT.
+Nyamagabe,Southern,6,61.19,0.3735,0.1615,0.8422,0.3992,99482,0.5139,Construction; ICT; Tourism & hospitality,Sector growth rests on thin survey cells for: ICT.
+Nyabihu,Western,7,59.76,0.3915,0.0747,0.8425,0.4825,88895,0.2021,Public & other services; Manufacturing; Tourism & hospitality,
+Gatsibo,Eastern,8,55.82,0.388,0.1606,0.8504,0.338,144310,0.1841,Public & other services; Tourism & hospitality; Manufacturing,
+Karongi,Western,9,55.79,0.4515,0.1201,0.7922,0.3646,95008,0.3819,Public & other services; Tourism & hospitality; Manufacturing,
+Bugesera,Eastern,10,55.17,0.3918,0.1785,0.7271,0.3732,144084,0.237,Public & other services; Tourism & hospitality; Trade & retail,
+Ngoma,Eastern,11,54.62,0.4209,0.1316,0.8287,0.3476,100068,0.309,Public & other services; Tourism & hospitality; Manufacturing,
+Nyagatare,Eastern,12,53.78,0.3517,0.1248,0.8345,0.4078,179964,0.3637,Public & other services; Tourism & hospitality; Manufacturing,
+Ngororero,Western,13,53.19,0.5213,0.111,0.7915,0.2926,93165,0.3024,Public & other services; Manufacturing; Tourism & hospitality,
+Gisagara,Southern,14,52.67,0.4314,0.1624,0.8333,0.2797,96344,0.4564,Construction; ICT; Tourism & hospitality,Sector growth rests on thin survey cells for: ICT.
+Kamonyi,Southern,15,52.19,0.394,0.1938,0.7115,0.3351,111828,0.397,Construction; ICT; Tourism & hospitality,Sector growth rests on thin survey cells for: ICT.
+Muhanga,Southern,16,51.2,0.4163,0.1773,0.6796,0.3453,90670,0.1495,ICT; Construction; Tourism & hospitality,Sector growth rests on thin survey cells for: ICT.
+Musanze,Northern,17,50.12,0.3929,0.1657,0.7119,0.3544,139867,0.2098,Manufacturing; Tourism & hospitality; Transport & logistics,
+Rulindo,Northern,18,49.7,0.4566,0.1261,0.7397,0.3298,91344,0.2164,Manufacturing; Tourism & hospitality; Mining,
+Nyanza,Southern,19,49.23,0.4017,0.1608,0.7772,0.31,87908,0.4327,Construction; ICT; Tourism & hospitality,Sector growth rests on thin survey cells for: ICT.
+Ruhango,Southern,20,47.59,0.4303,0.1217,0.7783,0.3203,85112,0.1499,Construction; ICT; Tourism & hospitality,Sector growth rests on thin survey cells for: ICT.
+Gakenke,Northern,21,47.08,0.3858,0.0884,0.8253,0.3728,94673,0.2447,Mining; Manufacturing; Transport & logistics,
+Rusizi,Western,22,46.73,0.4102,0.1821,0.7377,0.2756,123181,0.4416,Public & other services; Trade & retail; Tourism & hospitality,
+Kirehe,Eastern,23,44.79,0.4119,0.092,0.8274,0.3246,123177,0.1424,Public & other services; Tourism & hospitality; Manufacturing,
+Rubavu,Western,24,43.89,0.3998,0.1533,0.6824,0.328,151836,0.3881,Trade & retail; Public & other services; Tourism & hospitality,
+Kayonza,Eastern,25,42.83,0.4213,0.0955,0.7956,0.3125,121054,0.3655,Public & other services; Trade & retail; Tourism & hospitality,
+Rwamagana,Eastern,26,42.82,0.3702,0.1199,0.7375,0.3583,125470,0.2383,Public & other services; Tourism & hospitality; Manufacturing,
+Huye,Southern,27,37.43,0.3952,0.1457,0.7101,0.2726,93617,0.2419,ICT; Construction; Tourism & hospitality,Sector growth rests on thin survey cells for: ICT.
+Kicukiro,Kigali,28,21.82,0.2862,0.1496,0.5433,0.3247,175480,0.0693,Public & other services; ICT; Construction,
+Gasabo,Kigali,29,13.29,0.3271,0.1203,0.5011,0.2772,282233,0.1106,Public & other services; ICT; Construction,
+Nyarugenge,Kigali,30,11.64,0.3043,0.1324,0.4791,0.28,122964,0.068,Public & other services; ICT; Construction,

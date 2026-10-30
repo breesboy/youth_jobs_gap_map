@@ -1,0 +1,46 @@
+province,sector,growth,n_obs,thin
+Eastern,Agriculture & agro-processing,-0.011995976474842296,3858,False
+Eastern,Construction,-0.00888239046554018,680,False
+Eastern,ICT,-0.03877359274777081,11,True
+Eastern,Manufacturing,0.06365342281151642,364,False
+Eastern,Mining,-0.3242939397601058,74,False
+Eastern,Public & other services,0.057126183158616284,1403,False
+Eastern,Tourism & hospitality,0.3826329382556475,254,False
+Eastern,Trade & retail,0.15312492663399557,952,False
+Eastern,Transport & logistics,0.17856015171907713,389,False
+Kigali,Agriculture & agro-processing,0.01624673875376348,316,False
+Kigali,Construction,0.06148401547198468,686,False
+Kigali,ICT,0.6131857257230244,55,False
+Kigali,Manufacturing,0.04495398143654228,409,False
+Kigali,Mining,0.4591797370885149,62,False
+Kigali,Public & other services,0.13837875712682868,1894,False
+Kigali,Tourism & hospitality,0.09929336825423185,297,False
+Kigali,Trade & retail,0.11769596625355216,1295,False
+Kigali,Transport & logistics,-0.07077397360346116,510,False
+Northern,Agriculture & agro-processing,0.09104028643811524,2226,False
+Northern,Construction,-0.1054965891512043,456,False
+Northern,ICT,-0.5154048123589434,3,True
+Northern,Manufacturing,0.2666888324322896,248,False
+Northern,Mining,0.26046556594293113,112,False
+Northern,Public & other services,-0.021960482537268455,767,False
+Northern,Tourism & hospitality,0.27853272803331675,142,False
+Northern,Trade & retail,0.16180535356392012,610,False
+Northern,Transport & logistics,0.47444498809722213,260,False
+Southern,Agriculture & agro-processing,0.11612320701016343,3246,False
+Southern,Construction,0.11122824789101204,580,False
+Southern,ICT,2.0279431450059433,6,True
+Southern,Manufacturing,-0.046565017421602795,409,False
+Southern,Mining,0.22423501748512487,147,False
+Southern,Public & other services,-0.04208877875435246,1200,False
+Southern,Tourism & hospitality,0.2591509762970574,242,False
+Southern,Trade & retail,0.17853960259824286,843,False
+Southern,Transport & logistics,0.17140995914551604,444,False
+Western,Agriculture & agro-processing,0.07428384956921197,3321,False
+Western,Construction,-0.07670647543698295,591,False
+Western,ICT,0.08716281326345321,13,True
+Western,Manufacturing,0.012914550735049879,397,False
+Western,Mining,0.13282061190850514,154,False
+Western,Public & other services,0.06433951830010876,935,False
+Western,Tourism & hospitality,0.05841503313415508,223,False
+Western,Trade & retail,0.25031772203656666,1054,False
+Western,Transport & logistics,0.09802820825448166,654,False

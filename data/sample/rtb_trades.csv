@@ -1,0 +1,497 @@
+district,school,trade,level,accredited
+Gasabo,Gasabo TVET School 1,software development,5,yes
+Gasabo,Gasabo TVET School 1,tailoring,5,yes
+Gasabo,Gasabo TVET School 2,tourism,4,no
+Gasabo,Gasabo TVET School 2,welding and fabrication,4,yes
+Gasabo,Gasabo TVET School 3,tailoring,4,yes
+Gasabo,Gasabo TVET School 3,  Computer Applications,4,yes
+Gasabo,Gasabo TVET School 3,mining,4,yes
+Gasabo,Gasabo TVET School 4,leather processing,3,yes
+Gasabo,Gasabo TVET School 4,software development,3,yes
+Gasabo,Gasabo TVET School 4,mining,3,yes
+Gasabo,Gasabo TVET School 5,software development,3,yes
+Gasabo,Gasabo TVET School 5,building construction,3,yes
+Gasabo,Gasabo TVET School 5,leather processing,3,yes
+Gasabo,Gasabo TVET School 6,plumbing,5,yes
+Gasabo,Gasabo TVET School 6,tailoring,5,yes
+Gasabo,Gasabo TVET School 6,software development,5,yes
+Gasabo,Gasabo TVET School 7,leather processing,4,yes
+Gasabo,Gasabo TVET School 7,mining,4,yes
+Gasabo,Gasabo TVET School 7,building construction,4,yes
+Gasabo,Gasabo TVET School 7,tailoring,4,yes
+Gasabo,Gasabo TVET School 8,welding and fabrication,3,yes
+Gasabo,Gasabo TVET School 8,leather processing,3,yes
+Gasabo,Gasabo TVET School 9,automobile mechanics,5,yes
+Gasabo,Gasabo TVET School 9,plumbing,5,yes
+Gasabo,Gasabo TVET School 9,culinary arts,5,yes
+Gasabo,Gasabo TVET School 10,mining,3,yes
+Gasabo,Gasabo TVET School 10,leather processing,3,yes
+Gasabo,Gasabo TVET School 10,software development,3,yes
+Gasabo,Gasabo TVET School 11,leather processing,3,yes
+Gasabo,Gasabo TVET School 11,early childhood education,3,yes
+Gasabo,Gasabo TVET School 11,mining,3,yes
+Gasabo,Gasabo TVET School 11,  Software Development,3,yes
+Gasabo,Gasabo TVET School 12,welding and fabrication,3,yes
+Gasabo,Gasabo TVET School 12,mining,3,yes
+Kicukiro,Kicukiro TVET School 1,building construction,3,yes
+Kicukiro,Kicukiro TVET School 1,food processing,3,yes
+Kicukiro,Kicukiro TVET School 1,beauty and hairdressing,3,yes
+Kicukiro,Kicukiro TVET School 1,  Plumbing,3,yes
+Kicukiro,Kicukiro TVET School 2,electricity,4,yes
+Kicukiro,Kicukiro TVET School 2,food and beverage,4,yes
+Kicukiro,Kicukiro TVET School 2,food processing,4,yes
+Kicukiro,Kicukiro TVET School 2,animal health,4,yes
+Kicukiro,Kicukiro TVET School 3,food and beverage,5,yes
+Kicukiro,Kicukiro TVET School 3,food processing,5,yes
+Kicukiro,Kicukiro TVET School 3,horticulture,5,yes
+Kicukiro,Kicukiro TVET School 3,carpentry,5,yes
+Kicukiro,Kicukiro TVET School 4,automobile mechanics,3,yes
+Kicukiro,Kicukiro TVET School 5,food processing,3,no
+Kicukiro,Kicukiro TVET School 6,building construction,4,yes
+Kicukiro,Kicukiro TVET School 6,computer networking,4,yes
+Kicukiro,Kicukiro TVET School 6,electricity,4,yes
+Kicukiro,Kicukiro TVET School 6,food processing,4,yes
+Kicukiro,Kicukiro TVET School 7,automobile mechanics,5,yes
+Kicukiro,Kicukiro TVET School 7,software development,5,yes
+Kicukiro,Kicukiro TVET School 7,beauty and hairdressing,5,no
+Kicukiro,Kicukiro TVET School 8,horticulture,5,yes
+Kicukiro,Kicukiro TVET School 8,electricity,5,no
+Kicukiro,Kicukiro TVET School 9,computer networking,4,yes
+Kicukiro,Kicukiro TVET School 9,food processing,4,yes
+Kicukiro,Kicukiro TVET School 9,electricity,4,yes
+Kicukiro,Kicukiro TVET School 9,beauty and hairdressing,4,no
+Kicukiro,Kicukiro TVET School 10,carpentry,4,yes
+Kicukiro,Kicukiro TVET School 11,automobile mechanics,4,yes
+Kicukiro,Kicukiro TVET School 11,food processing,4,yes
+Kicukiro,Kicukiro TVET School 12,beauty and hairdressing,3,yes
+Nyarugenge,Nyarugenge TVET School 1,culinary arts,5,yes
+Nyarugenge,Nyarugenge TVET School 2,early childhood education,5,yes
+Nyarugenge,Nyarugenge TVET School 3,animal health,4,yes
+Nyarugenge,Nyarugenge TVET School 3,hotel front office,4,yes
+Nyarugenge,Nyarugenge TVET School 3,software development,4,yes
+Nyarugenge,Nyarugenge TVET School 3,crop production,4,yes
+Nyarugenge,Nyarugenge TVET School 4,software development,4,yes
+Nyarugenge,Nyarugenge TVET School 4,early childhood education,4,yes
+Nyarugenge,Nyarugenge TVET School 5,culinary arts,3,yes
+Nyarugenge,Nyarugenge TVET School 5,software development,3,yes
+Nyarugenge,Nyarugenge TVET School 6,computer networking,5,yes
+Nyarugenge,Nyarugenge TVET School 6,early childhood education,5,yes
+Nyarugenge,Nyarugenge TVET School 6,food and beverage,5,yes
+Nyarugenge,Nyarugenge TVET School 6,crop production,5,yes
+Nyarugenge,Nyarugenge TVET School 7,tailoring,5,yes
+Nyarugenge,Nyarugenge TVET School 7,computer networking,5,yes
+Nyarugenge,Nyarugenge TVET School 7,building construction,5,yes
+Nyarugenge,Nyarugenge TVET School 8,software development,5,yes
+Nyarugenge,Nyarugenge TVET School 8,wood processing,5,yes
+Nyarugenge,Nyarugenge TVET School 9,automobile mechanics,3,yes
+Nyarugenge,Nyarugenge TVET School 9,food processing,3,yes
+Nyarugenge,Nyarugenge TVET School 9,early childhood education,3,yes
+Nyarugenge,Nyarugenge TVET School 10,computer networking,5,yes
+Nyarugenge,Nyarugenge TVET School 10,food and beverage,5,yes
+Nyarugenge,Nyarugenge TVET School 10,food processing,5,yes
+Nyarugenge,Nyarugenge TVET School 11,crop production,4,yes
+Nyarugenge,Nyarugenge TVET School 11,animal health,4,yes
+Nyarugenge,Nyarugenge TVET School 11,electricity,4,yes
+Nyarugenge,Nyarugenge TVET School 11,horticulture,4,yes
+Nyarugenge,Nyarugenge TVET School 12,early childhood education,4,yes
+Nyarugenge,Nyarugenge TVET School 12,welding and fabrication,4,yes
+Nyarugenge,Nyarugenge TVET School 13,software development,4,yes
+Nyarugenge,Nyarugenge TVET School 13,animal health,4,yes
+Nyarugenge,Nyarugenge TVET School 14,early childhood education,5,yes
+Nyarugenge,Nyarugenge TVET School 15,software development,5,yes
+Nyarugenge,Nyarugenge TVET School 15,crop production,5,yes
+Nyarugenge,Nyarugenge TVET School 15,animal health,5,yes
+Nyarugenge,Nyarugenge TVET School 15,tourism,5,yes
+Nyarugenge,Nyarugenge TVET School 16,building construction,5,yes
+Nyarugenge,Nyarugenge TVET School 16,software development,5,yes
+Gisagara,Gisagara TVET School 1,horticulture,3,yes
+Gisagara,Gisagara TVET School 1,early childhood education,3,yes
+Gisagara,Gisagara TVET School 1,culinary arts,3,yes
+Gisagara,Gisagara TVET School 1,animal health,3,yes
+Gisagara,Gisagara TVET School 2,leather processing,5,yes
+Gisagara,Gisagara TVET School 2,horticulture,5,yes
+Gisagara,Gisagara TVET School 3,leather processing,3,yes
+Gisagara,Gisagara TVET School 3,welding and fabrication,3,yes
+Gisagara,Gisagara TVET School 4,tourism,5,yes
+Gisagara,Gisagara TVET School 4,marketing,5,yes
+Gisagara,Gisagara TVET School 4,welding and fabrication,5,yes
+Gisagara,Gisagara TVET School 5,building construction,4,no
+Gisagara,Gisagara TVET School 5,  Welding And Fabrication,4,yes
+Gisagara,Gisagara TVET School 5,horticulture,4,yes
+Huye,Huye TVET School 1,welding and fabrication,4,yes
+Huye,Huye TVET School 1,horticulture,4,yes
+Huye,Huye TVET School 2,leather processing,3,yes
+Huye,Huye TVET School 2,building construction,3,yes
+Huye,Huye TVET School 2,mining,3,yes
+Huye,Huye TVET School 2,carpentry,3,yes
+Huye,Huye TVET School 3,marketing,4,yes
+Huye,Huye TVET School 3,building construction,4,yes
+Huye,Huye TVET School 4,mining,5,yes
+Huye,Huye TVET School 4,marketing,5,yes
+Huye,Huye TVET School 4,building construction,5,yes
+Huye,Huye TVET School 5,early childhood education,4,yes
+Huye,Huye TVET School 6,mining,5,yes
+Huye,Huye TVET School 6,beauty and hairdressing,5,yes
+Huye,Huye TVET School 6,computer networking,5,yes
+Huye,Huye TVET School 6,leather processing,5,yes
+Huye,Huye TVET School 7,mining,5,yes
+Huye,Huye TVET School 7,building construction,5,yes
+Huye,Huye TVET School 8,building construction,5,yes
+Huye,Huye TVET School 8,carpentry,5,yes
+Huye,Huye TVET School 8,beauty and hairdressing,5,yes
+Huye,Huye TVET School 9,carpentry,3,yes
+Huye,Huye TVET School 10,mining,4,yes
+Huye,Huye TVET School 10,food and beverage,4,yes
+Huye,Huye TVET School 10,food processing,4,yes
+Huye,Huye TVET School 11,leather processing,4,yes
+Huye,Huye TVET School 11,mining,4,no
+Huye,Huye TVET School 11,building construction,4,yes
+Huye,Huye TVET School 11,beauty and hairdressing,4,yes
+Kamonyi,Kamonyi TVET School 1,computer networking,3,yes
+Kamonyi,Kamonyi TVET School 1,industrial photography,3,yes
+Kamonyi,Kamonyi TVET School 1,hotel front office,3,yes
+Kamonyi,Kamonyi TVET School 1,accounting,3,yes
+Kamonyi,Kamonyi TVET School 2,computer networking,3,yes
+Kamonyi,Kamonyi TVET School 2,industrial photography,3,yes
+Kamonyi,Kamonyi TVET School 2,food processing,3,yes
+Kamonyi,Kamonyi TVET School 3,early childhood education,4,yes
+Kamonyi,Kamonyi TVET School 3,electricity,4,yes
+Kamonyi,Kamonyi TVET School 4,food and beverage,3,yes
+Kamonyi,Kamonyi TVET School 4,accounting,3,yes
+Kamonyi,Kamonyi TVET School 5,software development,3,yes
+Muhanga,Muhanga TVET School 1,early childhood education,3,yes
+Muhanga,Muhanga TVET School 2,beauty and hairdressing,4,yes
+Muhanga,Muhanga TVET School 2,food processing,4,no
+Muhanga,Muhanga TVET School 3,wood processing,5,yes
+Muhanga,Muhanga TVET School 4,masonry,5,yes
+Muhanga,Muhanga TVET School 4,automobile mechanics,5,yes
+Muhanga,Muhanga TVET School 5,early childhood education,3,yes
+Muhanga,Muhanga TVET School 5,culinary arts,3,yes
+Muhanga,Muhanga TVET School 5,wood processing,3,yes
+Muhanga,Muhanga TVET School 6,culinary arts,4,yes
+Muhanga,Muhanga TVET School 6,wood processing,4,yes
+Muhanga,Muhanga TVET School 6,masonry,4,yes
+Nyamagabe,Nyamagabe TVET School 1,mining,3,yes
+Nyamagabe,Nyamagabe TVET School 1,marketing,3,no
+Nyamagabe,Nyamagabe TVET School 2,electricity,5,yes
+Nyamagabe,Nyamagabe TVET School 2,building construction,5,yes
+Nyamagabe,Nyamagabe TVET School 2,mining,5,yes
+Nyamagabe,Nyamagabe TVET School 3,marketing,4,no
+Nyamagabe,Nyamagabe TVET School 3,software development,4,yes
+Nyamagabe,Nyamagabe TVET School 3,plumbing,4,yes
+Nyamagabe,Nyamagabe TVET School 3,building construction,4,yes
+Nyamagabe,Nyamagabe TVET School 4,welding and fabrication,5,yes
+Nyamagabe,Nyamagabe TVET School 4,hotel front office,5,yes
+Nyamagabe,Nyamagabe TVET School 4,mining,5,yes
+Nyamagabe,Nyamagabe TVET School 4,accounting,5,yes
+Nyamagabe,Nyamagabe TVET School 5,culinary arts,5,yes
+Nyamagabe,Nyamagabe TVET School 5,crop production,5,yes
+Nyamagabe,Nyamagabe TVET School 6,  Computer Networking,5,yes
+Nyamagabe,Nyamagabe TVET School 6,plumbing,5,yes
+Nyamagabe,Nyamagabe TVET School 6,food processing,5,yes
+Nyamagabe,Nyamagabe TVET School 6,marketing,5,yes
+Nyanza,Nyanza TVET School 1,hotel front office,4,yes
+Nyanza,Nyanza TVET School 1,early childhood education,4,yes
+Nyanza,Nyanza TVET School 1,food processing,4,yes
+Nyanza,Nyanza TVET School 2,automobile mechanics,3,yes
+Nyanza,Nyanza TVET School 2,plumbing,3,yes
+Nyanza,Nyanza TVET School 2,masonry,3,yes
+Nyanza,Nyanza TVET School 3,industrial photography,5,yes
+Nyanza,Nyanza TVET School 3,marketing,5,yes
+Nyanza,Nyanza TVET School 3,crop production,5,yes
+Nyaruguru,Nyaruguru TVET School 1,mining,5,yes
+Nyaruguru,Nyaruguru TVET School 1,tailoring,5,yes
+Nyaruguru,Nyaruguru TVET School 2,leather processing,4,yes
+Nyaruguru,Nyaruguru TVET School 2,tailoring,4,yes
+Nyaruguru,Nyaruguru TVET School 2,welding and fabrication,4,yes
+Nyaruguru,Nyaruguru TVET School 3,marketing,3,yes
+Nyaruguru,Nyaruguru TVET School 3,welding and fabrication,3,yes
+Nyaruguru,Nyaruguru TVET School 4,marketing,5,yes
+Nyaruguru,Nyaruguru TVET School 4,accounting,5,yes
+Nyaruguru,Nyaruguru TVET School 4,welding and fabrication,5,yes
+Nyaruguru,Nyaruguru TVET School 4,plumbing,5,yes
+Nyaruguru,Nyaruguru TVET School 5,culinary arts,4,yes
+Ruhango,Ruhango TVET School 1,tailoring,3,yes
+Ruhango,Ruhango TVET School 1,computer networking,3,yes
+Ruhango,Ruhango TVET School 1,software development,3,yes
+Ruhango,Ruhango TVET School 1,building construction,3,yes
+Ruhango,Ruhango TVET School 2,tourism,5,yes
+Ruhango,Ruhango TVET School 2,accounting,5,yes
+Ruhango,Ruhango TVET School 3,tourism,3,no
+Ruhango,Ruhango TVET School 3,beauty and hairdressing,3,yes
+Ruhango,Ruhango TVET School 4,carpentry,4,yes
+Ruhango,Ruhango TVET School 4,tourism,4,yes
+Ruhango,Ruhango TVET School 5,beauty and hairdressing,5,yes
+Ruhango,Ruhango TVET School 5,accounting,5,yes
+Ruhango,Ruhango TVET School 6,food and beverage,5,yes
+Ruhango,Ruhango TVET School 6,beauty and hairdressing,5,yes
+Karongi,Karongi TVET School 1,computer applications,4,yes
+Karongi,Karongi TVET School 2,masonry,3,yes
+Karongi,Karongi TVET School 2,computer networking,3,yes
+Karongi,Karongi TVET School 2,mining,3,yes
+Karongi,Karongi TVET School 3,plumbing,5,yes
+Karongi,Karongi TVET School 4,beauty and hairdressing,4,yes
+Karongi,Karongi TVET School 4,mining,4,yes
+Karongi,Karongi TVET School 4,plumbing,4,yes
+Karongi,Karongi TVET School 4,industrial photography,4,yes
+Karongi,Karongi TVET School 5,plumbing,3,yes
+Karongi,Karongi TVET School 5,crop production,3,yes
+Karongi,Karongi TVET School 5,computer applications,3,yes
+Ngororero,Ngororero TVET School 1,mining,4,yes
+Ngororero,Ngororero TVET School 1,plumbing,4,yes
+Ngororero,Ngororero TVET School 2,horticulture,5,yes
+Ngororero,Ngororero TVET School 2,wood processing,5,yes
+Ngororero,Ngororero TVET School 2,food and beverage,5,yes
+Ngororero,Ngororero TVET School 3,beauty and hairdressing,5,yes
+Ngororero,Ngororero TVET School 3,culinary arts,5,yes
+Ngororero,Ngororero TVET School 4,mining,5,yes
+Ngororero,Ngororero TVET School 4,beauty and hairdressing,5,yes
+Ngororero,Ngororero TVET School 4,  Computer Applications,5,yes
+Nyabihu,Nyabihu TVET School 1,beauty and hairdressing,4,yes
+Nyabihu,Nyabihu TVET School 2,accounting,3,yes
+Nyabihu,Nyabihu TVET School 2,software development,3,yes
+Nyabihu,Nyabihu TVET School 3,early childhood education,5,yes
+Nyabihu,Nyabihu TVET School 3,accounting,5,yes
+Nyabihu,Nyabihu TVET School 4,software development,4,yes
+Nyabihu,Nyabihu TVET School 4,masonry,4,yes
+Nyamasheke,Nyamasheke TVET School 1,software development,4,yes
+Nyamasheke,Nyamasheke TVET School 2,software development,3,yes
+Nyamasheke,Nyamasheke TVET School 2,building construction,3,yes
+Nyamasheke,Nyamasheke TVET School 2,plumbing,3,yes
+Nyamasheke,Nyamasheke TVET School 2,food processing,3,yes
+Nyamasheke,Nyamasheke TVET School 3,food processing,3,yes
+Nyamasheke,Nyamasheke TVET School 3,carpentry,3,yes
+Nyamasheke,Nyamasheke TVET School 3,animal health,3,yes
+Rubavu,Rubavu TVET School 1,animal health,3,yes
+Rubavu,Rubavu TVET School 1,tailoring,3,yes
+Rubavu,Rubavu TVET School 2,plumbing,3,yes
+Rubavu,Rubavu TVET School 2,horticulture,3,yes
+Rubavu,Rubavu TVET School 3,food processing,3,yes
+Rubavu,Rubavu TVET School 3,welding and fabrication,3,yes
+Rubavu,Rubavu TVET School 3,accounting,3,yes
+Rubavu,Rubavu TVET School 3,horticulture,3,yes
+Rubavu,Rubavu TVET School 4,plumbing,4,yes
+Rubavu,Rubavu TVET School 5,plumbing,4,yes
+Rubavu,Rubavu TVET School 5,welding and fabrication,4,yes
+Rubavu,Rubavu TVET School 6,tailoring,4,yes
+Rubavu,Rubavu TVET School 6,welding and fabrication,4,yes
+Rubavu,Rubavu TVET School 6,horticulture,4,yes
+Rubavu,Rubavu TVET School 7,tourism,4,yes
+Rubavu,Rubavu TVET School 7,welding and fabrication,4,yes
+Rubavu,Rubavu TVET School 7,electricity,4,yes
+Rubavu,Rubavu TVET School 7,horticulture,4,yes
+Rubavu,Rubavu TVET School 8,horticulture,3,yes
+Rubavu,Rubavu TVET School 8,animal health,3,yes
+Rubavu,Rubavu TVET School 8,welding and fabrication,3,yes
+Rubavu,Rubavu TVET School 9,horticulture,3,yes
+Rubavu,Rubavu TVET School 10,horticulture,4,yes
+Rubavu,Rubavu TVET School 11,welding and fabrication,5,yes
+Rubavu,Rubavu TVET School 11,plumbing,5,yes
+Rusizi,Rusizi TVET School 1,leather processing,3,yes
+Rusizi,Rusizi TVET School 1,accounting,3,yes
+Rusizi,Rusizi TVET School 1,hotel front office,3,yes
+Rusizi,Rusizi TVET School 2,accounting,3,yes
+Rusizi,Rusizi TVET School 2,tailoring,3,yes
+Rusizi,Rusizi TVET School 2,welding and fabrication,3,yes
+Rusizi,Rusizi TVET School 3,welding and fabrication,3,yes
+Rusizi,Rusizi TVET School 3,accounting,3,yes
+Rusizi,Rusizi TVET School 3,  Leather Processing,3,yes
+Rusizi,Rusizi TVET School 3,food processing,3,yes
+Rusizi,Rusizi TVET School 4,building construction,5,yes
+Rusizi,Rusizi TVET School 4,culinary arts,5,yes
+Rusizi,Rusizi TVET School 4,electricity,5,yes
+Rusizi,Rusizi TVET School 4,welding and fabrication,5,yes
+Rusizi,Rusizi TVET School 5,accounting,3,yes
+Rusizi,Rusizi TVET School 5,food processing,3,yes
+Rusizi,Rusizi TVET School 6,food processing,4,yes
+Rusizi,Rusizi TVET School 6,accounting,4,yes
+Rusizi,Rusizi TVET School 6,leather processing,4,no
+Rusizi,Rusizi TVET School 6,culinary arts,4,yes
+Rusizi,Rusizi TVET School 7,horticulture,4,yes
+Rusizi,Rusizi TVET School 7,welding and fabrication,4,yes
+Rusizi,Rusizi TVET School 7,accounting,4,yes
+Rusizi,Rusizi TVET School 7,hotel front office,4,yes
+Rutsiro,Rutsiro TVET School 1,plumbing,3,yes
+Rutsiro,Rutsiro TVET School 2,automobile mechanics,3,yes
+Rutsiro,Rutsiro TVET School 2,culinary arts,3,yes
+Rutsiro,Rutsiro TVET School 2,crop production,3,yes
+Rutsiro,Rutsiro TVET School 3,mining,4,yes
+Rutsiro,Rutsiro TVET School 3,automobile mechanics,4,yes
+Rutsiro,Rutsiro TVET School 3,tailoring,4,yes
+Rutsiro,Rutsiro TVET School 4,culinary arts,3,yes
+Rutsiro,Rutsiro TVET School 4,crop production,3,no
+Rutsiro,Rutsiro TVET School 4,leather processing,3,yes
+Rutsiro,Rutsiro TVET School 5,plumbing,3,yes
+Rutsiro,Rutsiro TVET School 6,hotel front office,5,yes
+Rutsiro,Rutsiro TVET School 6,mining,5,yes
+Rutsiro,Rutsiro TVET School 6,plumbing,5,yes
+Burera,Burera TVET School 1,early childhood education,5,yes
+Burera,Burera TVET School 1,animal health,5,yes
+Burera,Burera TVET School 1,tailoring,5,yes
+Burera,Burera TVET School 1,beauty and hairdressing,5,yes
+Burera,Burera TVET School 2,culinary arts,5,yes
+Burera,Burera TVET School 2,computer applications,5,no
+Burera,Burera TVET School 2,leather processing,5,yes
+Burera,Burera TVET School 3,masonry,4,yes
+Burera,Burera TVET School 4,tailoring,3,yes
+Burera,Burera TVET School 4,animal health,3,yes
+Burera,Burera TVET School 4,mining,3,yes
+Burera,Burera TVET School 5,leather processing,5,yes
+Burera,Burera TVET School 6,industrial photography,5,no
+Burera,Burera TVET School 6,early childhood education,5,yes
+Gakenke,Gakenke TVET School 1,plumbing,3,yes
+Gakenke,Gakenke TVET School 2,plumbing,4,yes
+Gakenke,Gakenke TVET School 2,masonry,4,yes
+Gakenke,Gakenke TVET School 2,food processing,4,yes
+Gakenke,Gakenke TVET School 3,food processing,3,yes
+Gicumbi,Gicumbi TVET School 1,beauty and hairdressing,3,no
+Gicumbi,Gicumbi TVET School 2,  Tailoring,4,yes
+Gicumbi,Gicumbi TVET School 2,leather processing,4,yes
+Gicumbi,Gicumbi TVET School 2,  Industrial Photography,4,yes
+Gicumbi,Gicumbi TVET School 3,horticulture,3,yes
+Gicumbi,Gicumbi TVET School 3,accounting,3,yes
+Gicumbi,Gicumbi TVET School 4,marketing,3,yes
+Gicumbi,Gicumbi TVET School 4,electricity,3,yes
+Gicumbi,Gicumbi TVET School 5,electricity,4,yes
+Gicumbi,Gicumbi TVET School 5,food processing,4,yes
+Gicumbi,Gicumbi TVET School 5,marketing,4,yes
+Gicumbi,Gicumbi TVET School 5,software development,4,yes
+Gicumbi,Gicumbi TVET School 6,culinary arts,3,yes
+Gicumbi,Gicumbi TVET School 6,accounting,3,yes
+Gicumbi,Gicumbi TVET School 6,marketing,3,yes
+Musanze,Musanze TVET School 1,animal health,4,yes
+Musanze,Musanze TVET School 1,mining,4,yes
+Musanze,Musanze TVET School 1,food and beverage,4,yes
+Musanze,Musanze TVET School 2,  Early Childhood Education,5,yes
+Musanze,Musanze TVET School 2,food and beverage,5,yes
+Musanze,Musanze TVET School 2,crop production,5,yes
+Musanze,Musanze TVET School 3,automobile mechanics,3,yes
+Musanze,Musanze TVET School 4,masonry,5,yes
+Musanze,Musanze TVET School 5,food processing,4,yes
+Musanze,Musanze TVET School 5,crop production,4,yes
+Musanze,Musanze TVET School 5,software development,4,yes
+Musanze,Musanze TVET School 5,automobile mechanics,4,yes
+Musanze,Musanze TVET School 6,food and beverage,5,yes
+Musanze,Musanze TVET School 6,welding and fabrication,5,yes
+Musanze,Musanze TVET School 7,food and beverage,3,yes
+Musanze,Musanze TVET School 7,mining,3,yes
+Musanze,Musanze TVET School 7,beauty and hairdressing,3,yes
+Musanze,Musanze TVET School 8,plumbing,5,no
+Musanze,Musanze TVET School 8,mining,5,yes
+Musanze,Musanze TVET School 8,crop production,5,yes
+Musanze,Musanze TVET School 8,food and beverage,5,yes
+Rulindo,Rulindo TVET School 1,welding and fabrication,4,yes
+Rulindo,Rulindo TVET School 1,culinary arts,4,yes
+Rulindo,Rulindo TVET School 2,culinary arts,5,yes
+Rulindo,Rulindo TVET School 3,tourism,5,yes
+Rulindo,Rulindo TVET School 3,computer applications,5,yes
+Rulindo,Rulindo TVET School 3,building construction,5,yes
+Rulindo,Rulindo TVET School 4,beauty and hairdressing,3,no
+Rulindo,Rulindo TVET School 4,plumbing,3,yes
+Bugesera,Bugesera TVET School 1,marketing,4,yes
+Bugesera,Bugesera TVET School 2,animal health,3,yes
+Bugesera,Bugesera TVET School 2,marketing,3,yes
+Bugesera,Bugesera TVET School 3,masonry,4,yes
+Bugesera,Bugesera TVET School 3,software development,4,yes
+Bugesera,Bugesera TVET School 3,carpentry,4,yes
+Bugesera,Bugesera TVET School 4,food processing,4,yes
+Bugesera,Bugesera TVET School 4,tourism,4,yes
+Bugesera,Bugesera TVET School 5,mining,4,yes
+Bugesera,Bugesera TVET School 5,marketing,4,yes
+Bugesera,Bugesera TVET School 6,software development,5,yes
+Bugesera,Bugesera TVET School 6,accounting,5,yes
+Bugesera,Bugesera TVET School 6,animal health,5,yes
+Bugesera,Bugesera TVET School 7,industrial photography,3,yes
+Bugesera,Bugesera TVET School 7,early childhood education,3,yes
+Bugesera,Bugesera TVET School 7,building construction,3,yes
+Bugesera,Bugesera TVET School 7,electricity,3,yes
+Gatsibo,Gatsibo TVET School 1,masonry,4,yes
+Gatsibo,Gatsibo TVET School 1,accounting,4,yes
+Gatsibo,Gatsibo TVET School 2,marketing,5,yes
+Gatsibo,Gatsibo TVET School 2,horticulture,5,yes
+Gatsibo,Gatsibo TVET School 3,food and beverage,4,yes
+Gatsibo,Gatsibo TVET School 4,marketing,5,yes
+Gatsibo,Gatsibo TVET School 4,carpentry,5,yes
+Gatsibo,Gatsibo TVET School 4,leather processing,5,yes
+Gatsibo,Gatsibo TVET School 4,horticulture,5,yes
+Kayonza,Kayonza TVET School 1,culinary arts,3,yes
+Kayonza,Kayonza TVET School 2,carpentry,3,yes
+Kayonza,Kayonza TVET School 3,tailoring,4,yes
+Kayonza,Kayonza TVET School 3,leather processing,4,yes
+Kayonza,Kayonza TVET School 3,hotel front office,4,yes
+Kirehe,Kirehe TVET School 1,automobile mechanics,3,yes
+Kirehe,Kirehe TVET School 1,early childhood education,3,yes
+Kirehe,Kirehe TVET School 1,plumbing,3,yes
+Kirehe,Kirehe TVET School 2,early childhood education,3,yes
+Kirehe,Kirehe TVET School 2,horticulture,3,yes
+Kirehe,Kirehe TVET School 2,carpentry,3,yes
+Kirehe,Kirehe TVET School 3,early childhood education,4,yes
+Kirehe,Kirehe TVET School 3,crop production,4,yes
+Ngoma,Ngoma TVET School 1,mining,3,yes
+Ngoma,Ngoma TVET School 1,software development,3,no
+Ngoma,Ngoma TVET School 1,tourism,3,yes
+Ngoma,Ngoma TVET School 1,accounting,3,yes
+Ngoma,Ngoma TVET School 2,  Marketing,4,yes
+Ngoma,Ngoma TVET School 2,automobile mechanics,4,yes
+Ngoma,Ngoma TVET School 2,leather processing,4,yes
+Ngoma,Ngoma TVET School 3,carpentry,3,yes
+Ngoma,Ngoma TVET School 4,culinary arts,3,yes
+Ngoma,Ngoma TVET School 5,  Food Processing,4,yes
+Ngoma,Ngoma TVET School 5,tourism,4,yes
+Ngoma,Ngoma TVET School 5,early childhood education,4,yes
+Ngoma,Ngoma TVET School 5,marketing,4,yes
+Ngoma,Ngoma TVET School 6,software development,5,yes
+Ngoma,Ngoma TVET School 6,food processing,5,yes
+Ngoma,Ngoma TVET School 7,food processing,4,yes
+Ngoma,Ngoma TVET School 7,masonry,4,yes
+Ngoma,Ngoma TVET School 8,software development,3,no
+Ngoma,Ngoma TVET School 9,culinary arts,5,yes
+Ngoma,Ngoma TVET School 9,software development,5,yes
+Ngoma,Ngoma TVET School 9,food processing,5,yes
+Nyagatare,Nyagatare TVET School 1,industrial photography,3,yes
+Nyagatare,Nyagatare TVET School 1,animal health,3,yes
+Nyagatare,Nyagatare TVET School 1,building construction,3,yes
+Nyagatare,Nyagatare TVET School 1,horticulture,3,no
+Nyagatare,Nyagatare TVET School 2,building construction,4,yes
+Nyagatare,Nyagatare TVET School 3,masonry,5,yes
+Nyagatare,Nyagatare TVET School 4,food processing,3,yes
+Nyagatare,Nyagatare TVET School 4,  Computer Networking,3,yes
+Nyagatare,Nyagatare TVET School 4,crop production,3,yes
+Nyagatare,Nyagatare TVET School 5,crop production,3,yes
+Nyagatare,Nyagatare TVET School 5,culinary arts,3,yes
+Nyagatare,Nyagatare TVET School 5,carpentry,3,yes
+Nyagatare,Nyagatare TVET School 5,building construction,3,yes
+Nyagatare,Nyagatare TVET School 6,food and beverage,4,yes
+Nyagatare,Nyagatare TVET School 7,crop production,3,yes
+Nyagatare,Nyagatare TVET School 7,software development,3,yes
+Nyagatare,Nyagatare TVET School 8,leather processing,4,yes
+Nyagatare,Nyagatare TVET School 9,electricity,4,yes
+Nyagatare,Nyagatare TVET School 9,industrial photography,4,yes
+Nyagatare,Nyagatare TVET School 9,software development,4,yes
+Rwamagana,Rwamagana TVET School 1,mining,4,yes
+Rwamagana,Rwamagana TVET School 2,accounting,5,yes
+Rwamagana,Rwamagana TVET School 2,plumbing,5,yes
+Rwamagana,Rwamagana TVET School 2,crop production,5,yes
+Rwamagana,Rwamagana TVET School 3,plumbing,3,yes
+Rwamagana,Rwamagana TVET School 3,animal health,3,yes
+Rwamagana,Rwamagana TVET School 3,carpentry,3,yes
+Rwamagana,Rwamagana TVET School 4,carpentry,4,yes
+Rwamagana,Rwamagana TVET School 4,plumbing,4,yes
+Rwamagana,Rwamagana TVET School 4,computer applications,4,yes
+Rwamagana,Rwamagana TVET School 5,industrial photography,4,yes
+Rwamagana,Rwamagana TVET School 6,mining,3,yes
+Rwamagana,Rwamagana TVET School 7,accounting,5,yes
+Rwamagana,Rwamagana TVET School 8,automobile mechanics,3,yes
+Rwamagana,Rwamagana TVET School 8,mining,3,yes
+Rwamagana,Rwamagana TVET School 9,wood processing,3,yes
+Rwamagana,Rwamagana TVET School 10,masonry,3,yes
+Kirehe,Kirehe TVET School 1,automobile mechanics,3,yes
+Nyamasheke,Nyamasheke TVET School 3,animal health,3,yes
+Ngoma,Ngoma TVET School 1,accounting,3,yes
+Ngoma,Ngoma TVET School 9,food processing,5,yes
+Musanze,Musanze TVET School 2,food and beverage,5,yes
+Nyagatare,Nyagatare TVET School 8,leather processing,4,yes
+Nyanza,Nyanza TVET School 1,food processing,4,yes
+Ruhango,Ruhango TVET School 6,beauty and hairdressing,5,yes
+Nyarugenge,Nyarugenge TVET School 16,software development,5,yes
+Karongi,Karongi TVET School 2,mining,3,yes

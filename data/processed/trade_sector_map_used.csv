@@ -1,0 +1,60 @@
+trade,sector
+masonry,Construction
+carpentry,Construction
+plumbing,Construction
+civil construction,Construction
+road construction,Construction
+building construction,Construction
+land surveying,Construction
+painting and decoration,Construction
+interior design,Construction
+domestic electricity,Construction
+industrial electricity,Construction
+electricity,Construction
+solar energy,Public & other services
+hydropower energy,Public & other services
+tailoring,Manufacturing
+knitting,Manufacturing
+handcraft,Manufacturing
+wickerwork,Manufacturing
+leather craft,Manufacturing
+welding,Manufacturing
+production technology,Manufacturing
+control systems,Manufacturing
+wood processing,Manufacturing
+culinary arts,Tourism & hospitality
+food and beverage,Tourism & hospitality
+house keeping,Tourism & hospitality
+front office,Tourism & hospitality
+tourism,Tourism & hospitality
+food processing,Agriculture & agro-processing
+crop production,Agriculture & agro-processing
+animal health,Agriculture & agro-processing
+forestry,Agriculture & agro-processing
+irrigation technology,Agriculture & agro-processing
+agribusiness,Agriculture & agro-processing
+agri-mechanization,Agriculture & agro-processing
+horticulture,Agriculture & agro-processing
+computer applications,ICT
+computer system technology,ICT
+computer literacy,ICT
+software development,ICT
+networking,ICT
+multimedia,ICT
+telecommunication,ICT
+electronics,ICT
+automotive engine,Transport & logistics
+auto electricity,Transport & logistics
+auto transmission,Transport & logistics
+driving,Transport & logistics
+accounting,Trade & retail
+business services,Trade & retail
+office management,Trade & retail
+customs and tax,Trade & retail
+marketing,Trade & retail
+mining,Mining
+hairdressing,Public & other services
+beauty,Public & other services
+music,Public & other services
+football,Public & other services
+early childhood education,Public & other services

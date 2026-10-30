@@ -1,0 +1,6890 @@
+[
+ {
+  "name": "Gicumbi",
+  "province": "Northern",
+  "rank": 1,
+  "rank_range": [
+   1,
+   6
+  ],
+  "gap_score": 75.57,
+  "components": {
+   "idle_youth": {
+    "value": 0.437,
+    "scaled": 0.6415,
+    "contribution": 16.04
+   },
+   "unemployment": {
+    "value": 0.2382,
+    "scaled": 1.0,
+    "contribution": 25.0
+   },
+   "low_quality_work": {
+    "value": 0.804,
+    "scaled": 0.8426,
+    "contribution": 21.06
+   },
+   "education_mismatch": {
+    "value": 0.3856,
+    "scaled": 0.5386,
+    "contribution": 13.47
+   }
+  },
+  "youth_population": 123448,
+  "sample_records": 12239,
+  "poverty_rate": 0.1331,
+  "education": {
+   "none": 0.0392,
+   "primary": 0.5563,
+   "secondary": 0.3751,
+   "tertiary": 0.0294
+  },
+  "activity": {
+   "employed": 0.372,
+   "student": 0.191,
+   "neither": 0.437
+  },
+  "occupation": {
+   "professional_technical": 0.062,
+   "services_sales": 0.0574,
+   "craft_trades": 0.0766,
+   "elementary": 0.6202,
+   "agricultural": 0.1838
+  },
+  "training": {
+   "total_trades": 40,
+   "trades_per_10k_youth": 3.24,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 4,
+     "training_share": 0.1,
+     "work_share": 0.6064
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 11,
+     "training_share": 0.275,
+     "work_share": 0.0489
+    },
+    {
+     "sector": "ICT",
+     "trades": 9,
+     "training_share": 0.225,
+     "work_share": 0.0035
+    },
+    {
+     "sector": "Construction",
+     "trades": 10,
+     "training_share": 0.25,
+     "work_share": 0.0549
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 1,
+     "training_share": 0.025,
+     "work_share": 0.0095
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 4,
+     "training_share": 0.1,
+     "work_share": 0.0715
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0415
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0181
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 1,
+     "training_share": 0.025,
+     "work_share": 0.1457
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Manufacturing",
+    "score": 55.4141,
+    "fit": 1.0,
+    "growth": 0.6624,
+    "training_gap": 0.0,
+    "work_share": 0.0489,
+    "training_share": 0.275,
+    "province_growth": 0.2667,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 44.7888,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.3437,
+    "work_share": 0.0415,
+    "training_share": 0.0,
+    "province_growth": 0.4744,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 37.8371,
+    "fit": 1.0,
+    "growth": 0.1351,
+    "training_gap": 0.0,
+    "work_share": 0.0095,
+    "training_share": 0.025,
+    "province_growth": 0.2785,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0549,
+    "training_share": 0.25,
+    "province_growth": -0.1055,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "ICT",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0035,
+    "training_share": 0.225,
+    "province_growth": -0.5154,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Public & other services",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.1457,
+    "training_share": 0.025,
+    "province_growth": -0.022,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 19.6057,
+    "fit": 0.0,
+    "growth": 0.5882,
+    "training_gap": 0.0,
+    "work_share": 0.0715,
+    "training_share": 0.1,
+    "province_growth": 0.1618,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 12.9884,
+    "fit": 0.0,
+    "growth": 0.2396,
+    "training_gap": 0.15,
+    "work_share": 0.0181,
+    "training_share": 0.0,
+    "province_growth": 0.2605,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.6064,
+    "training_share": 0.1,
+    "province_growth": 0.091,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Manufacturing",
+   "Transport & logistics",
+   "Tourism & hospitality"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Rutsiro",
+  "province": "Western",
+  "rank": 2,
+  "rank_range": [
+   1,
+   5
+  ],
+  "gap_score": 73.26,
+  "components": {
+   "idle_youth": {
+    "value": 0.4209,
+    "scaled": 0.573,
+    "contribution": 14.33
+   },
+   "unemployment": {
+    "value": 0.1847,
+    "scaled": 0.6731,
+    "contribution": 16.83
+   },
+   "low_quality_work": {
+    "value": 0.8412,
+    "scaled": 0.9392,
+    "contribution": 23.48
+   },
+   "education_mismatch": {
+    "value": 0.429,
+    "scaled": 0.7452,
+    "contribution": 18.63
+   }
+  },
+  "youth_population": 98627,
+  "sample_records": 9692,
+  "poverty_rate": 0.4078,
+  "education": {
+   "none": 0.0762,
+   "primary": 0.5951,
+   "secondary": 0.3121,
+   "tertiary": 0.0167
+  },
+  "activity": {
+   "employed": 0.4122,
+   "student": 0.1669,
+   "neither": 0.4209
+  },
+  "occupation": {
+   "professional_technical": 0.0477,
+   "services_sales": 0.0401,
+   "craft_trades": 0.0709,
+   "elementary": 0.6365,
+   "agricultural": 0.2047
+  },
+  "training": {
+   "total_trades": 13,
+   "trades_per_10k_youth": 1.32,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 2,
+     "training_share": 0.1538,
+     "work_share": 0.6706
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 2,
+     "training_share": 0.1538,
+     "work_share": 0.0439
+    },
+    {
+     "sector": "ICT",
+     "trades": 4,
+     "training_share": 0.3077,
+     "work_share": 0.0015
+    },
+    {
+     "sector": "Construction",
+     "trades": 3,
+     "training_share": 0.2308,
+     "work_share": 0.0386
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0104
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 2,
+     "training_share": 0.1538,
+     "work_share": 0.0524
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0487
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0485
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0853
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 47.2932,
+    "fit": 0.0,
+    "growth": 0.4188,
+    "training_gap": 1.0,
+    "work_share": 0.0853,
+    "training_share": 0.0,
+    "province_growth": 0.0643,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 38.96,
+    "fit": 1.0,
+    "growth": 0.0465,
+    "training_gap": 0.1223,
+    "work_share": 0.0104,
+    "training_share": 0.0,
+    "province_growth": 0.0584,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Mining",
+    "score": 35.3601,
+    "fit": 0.0,
+    "growth": 0.4919,
+    "training_gap": 0.5689,
+    "work_share": 0.0485,
+    "training_share": 0.0,
+    "province_growth": 0.1328,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 34.7746,
+    "fit": 1.0,
+    "growth": 0.0432,
+    "training_gap": 0.0,
+    "work_share": 0.0439,
+    "training_share": 0.1538,
+    "province_growth": 0.0129,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "ICT",
+    "score": 33.6647,
+    "fit": 1.0,
+    "growth": 0.0099,
+    "training_gap": 0.0,
+    "work_share": 0.0015,
+    "training_share": 0.3077,
+    "province_growth": 0.0872,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0386,
+    "training_share": 0.2308,
+    "province_growth": -0.0767,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0,
+    "work_share": 0.0524,
+    "training_share": 0.1538,
+    "province_growth": 0.2503,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 31.1593,
+    "fit": 0.0,
+    "growth": 0.3641,
+    "training_gap": 0.5707,
+    "work_share": 0.0487,
+    "training_share": 0.0,
+    "province_growth": 0.098,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.6706,
+    "training_share": 0.1538,
+    "province_growth": 0.0743,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "Tourism & hospitality",
+   "Mining"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Burera",
+  "province": "Northern",
+  "rank": 3,
+  "rank_range": [
+   1,
+   7
+  ],
+  "gap_score": 69.28,
+  "components": {
+   "idle_youth": {
+    "value": 0.4264,
+    "scaled": 0.5963,
+    "contribution": 14.91
+   },
+   "unemployment": {
+    "value": 0.1599,
+    "scaled": 0.5212,
+    "contribution": 13.03
+   },
+   "low_quality_work": {
+    "value": 0.8647,
+    "scaled": 1.0,
+    "contribution": 25.0
+   },
+   "education_mismatch": {
+    "value": 0.4098,
+    "scaled": 0.6536,
+    "contribution": 16.34
+   }
+  },
+  "youth_population": 112899,
+  "sample_records": 11263,
+  "poverty_rate": 0.2204,
+  "education": {
+   "none": 0.0619,
+   "primary": 0.5693,
+   "secondary": 0.3402,
+   "tertiary": 0.0286
+  },
+  "activity": {
+   "employed": 0.3858,
+   "student": 0.1878,
+   "neither": 0.4264
+  },
+  "occupation": {
+   "professional_technical": 0.0547,
+   "services_sales": 0.0342,
+   "craft_trades": 0.0464,
+   "elementary": 0.6711,
+   "agricultural": 0.1935
+  },
+  "training": {
+   "total_trades": 18,
+   "trades_per_10k_youth": 1.59,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 1,
+     "training_share": 0.0556,
+     "work_share": 0.7467
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0275
+    },
+    {
+     "sector": "ICT",
+     "trades": 1,
+     "training_share": 0.0556,
+     "work_share": 0.0017
+    },
+    {
+     "sector": "Construction",
+     "trades": 9,
+     "training_share": 0.5,
+     "work_share": 0.0387
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0034
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 1,
+     "training_share": 0.0556,
+     "work_share": 0.0391
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 6,
+     "training_share": 0.3333,
+     "work_share": 0.0273
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.01
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.1056
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Manufacturing",
+    "score": 60.87,
+    "fit": 1.0,
+    "growth": 0.5659,
+    "training_gap": 0.2602,
+    "work_share": 0.0275,
+    "training_share": 0.0,
+    "province_growth": 0.2667,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 36.8778,
+    "fit": 1.0,
+    "growth": 0.0738,
+    "training_gap": 0.0325,
+    "work_share": 0.0034,
+    "training_share": 0.0,
+    "province_growth": 0.2785,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0387,
+    "training_share": 0.5,
+    "province_growth": -0.1055,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0017,
+    "training_share": 0.0556,
+    "province_growth": -0.5154,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Public & other services",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.1056,
+    "training_share": 0.0,
+    "province_growth": -0.022,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0,
+    "work_share": 0.0273,
+    "training_share": 0.3333,
+    "province_growth": 0.4744,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 16.2833,
+    "fit": 0.0,
+    "growth": 0.4885,
+    "training_gap": 0.0,
+    "work_share": 0.0391,
+    "training_share": 0.0556,
+    "province_growth": 0.1618,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 9.9098,
+    "fit": 0.0,
+    "growth": 0.2021,
+    "training_gap": 0.0952,
+    "work_share": 0.01,
+    "training_share": 0.0,
+    "province_growth": 0.2605,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.7467,
+    "training_share": 0.0556,
+    "province_growth": 0.091,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Manufacturing",
+   "Tourism & hospitality",
+   "Construction"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Nyaruguru",
+  "province": "Southern",
+  "rank": 4,
+  "rank_range": [
+   2,
+   11
+  ],
+  "gap_score": 68.31,
+  "components": {
+   "idle_youth": {
+    "value": 0.4381,
+    "scaled": 0.6462,
+    "contribution": 16.16
+   },
+   "unemployment": {
+    "value": 0.2287,
+    "scaled": 0.9421,
+    "contribution": 23.55
+   },
+   "low_quality_work": {
+    "value": 0.8132,
+    "scaled": 0.8664,
+    "contribution": 21.66
+   },
+   "education_mismatch": {
+    "value": 0.3309,
+    "scaled": 0.2779,
+    "contribution": 6.95
+   }
+  },
+  "youth_population": 80280,
+  "sample_records": 7966,
+  "poverty_rate": 0.397,
+  "education": {
+   "none": 0.0672,
+   "primary": 0.5548,
+   "secondary": 0.358,
+   "tertiary": 0.02
+  },
+  "activity": {
+   "employed": 0.3154,
+   "student": 0.2465,
+   "neither": 0.4381
+  },
+  "occupation": {
+   "professional_technical": 0.0791,
+   "services_sales": 0.0539,
+   "craft_trades": 0.0538,
+   "elementary": 0.6144,
+   "agricultural": 0.1988
+  },
+  "training": {
+   "total_trades": 18,
+   "trades_per_10k_youth": 2.24,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.5767
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 2,
+     "training_share": 0.1111,
+     "work_share": 0.0666
+    },
+    {
+     "sector": "ICT",
+     "trades": 5,
+     "training_share": 0.2778,
+     "work_share": 0.0027
+    },
+    {
+     "sector": "Construction",
+     "trades": 8,
+     "training_share": 0.4444,
+     "work_share": 0.0683
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0085
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 2,
+     "training_share": 0.1111,
+     "work_share": 0.0572
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 1,
+     "training_share": 0.0556,
+     "work_share": 0.032
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0061
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.1818
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Construction",
+    "score": 58.1109,
+    "fit": 1.0,
+    "growth": 0.7433,
+    "training_gap": 0.0,
+    "work_share": 0.0683,
+    "training_share": 0.4444,
+    "province_growth": 0.1112,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 51.2994,
+    "fit": 1.0,
+    "growth": 0.539,
+    "training_gap": 0.0,
+    "work_share": 0.0027,
+    "training_share": 0.2778,
+    "province_growth": 2.0279,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 42.073,
+    "fit": 1.0,
+    "growth": 0.2154,
+    "training_gap": 0.0467,
+    "work_share": 0.0085,
+    "training_share": 0.0,
+    "province_growth": 0.2592,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0666,
+    "training_share": 0.1111,
+    "province_growth": -0.0466,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Public & other services",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.1818,
+    "training_share": 0.0,
+    "province_growth": -0.0421,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0,
+    "work_share": 0.0572,
+    "training_share": 0.1111,
+    "province_growth": 0.1785,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 17.8908,
+    "fit": 0.0,
+    "growth": 0.5367,
+    "training_gap": 0.0,
+    "work_share": 0.032,
+    "training_share": 0.0556,
+    "province_growth": 0.1714,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 5.5826,
+    "fit": 0.0,
+    "growth": 0.1339,
+    "training_gap": 0.0336,
+    "work_share": 0.0061,
+    "training_share": 0.0,
+    "province_growth": 0.2242,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.5767,
+    "training_share": 0.0,
+    "province_growth": 0.1161,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Construction",
+   "ICT",
+   "Tourism & hospitality"
+  ],
+  "flags": [
+   "Sector growth rests on thin survey cells for: ICT."
+  ]
+ },
+ {
+  "name": "Nyamasheke",
+  "province": "Western",
+  "rank": 5,
+  "rank_range": [
+   3,
+   14
+  ],
+  "gap_score": 63.43,
+  "components": {
+   "idle_youth": {
+    "value": 0.4048,
+    "scaled": 0.5044,
+    "contribution": 12.61
+   },
+   "unemployment": {
+    "value": 0.2168,
+    "scaled": 0.8696,
+    "contribution": 21.74
+   },
+   "low_quality_work": {
+    "value": 0.803,
+    "scaled": 0.8402,
+    "contribution": 21.0
+   },
+   "education_mismatch": {
+    "value": 0.3404,
+    "scaled": 0.3232,
+    "contribution": 8.08
+   }
+  },
+  "youth_population": 102705,
+  "sample_records": 10290,
+  "poverty_rate": 0.4281,
+  "education": {
+   "none": 0.0458,
+   "primary": 0.5406,
+   "secondary": 0.3849,
+   "tertiary": 0.0286
+  },
+  "activity": {
+   "employed": 0.3413,
+   "student": 0.2539,
+   "neither": 0.4048
+  },
+  "occupation": {
+   "professional_technical": 0.0724,
+   "services_sales": 0.0555,
+   "craft_trades": 0.069,
+   "elementary": 0.558,
+   "agricultural": 0.2451
+  },
+  "training": {
+   "total_trades": 27,
+   "trades_per_10k_youth": 2.63,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 2,
+     "training_share": 0.0741,
+     "work_share": 0.5958
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 8,
+     "training_share": 0.2963,
+     "work_share": 0.0569
+    },
+    {
+     "sector": "ICT",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0029
+    },
+    {
+     "sector": "Construction",
+     "trades": 12,
+     "training_share": 0.4444,
+     "work_share": 0.0493
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 2,
+     "training_share": 0.0741,
+     "work_share": 0.0069
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 2,
+     "training_share": 0.0741,
+     "work_share": 0.0543
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 1,
+     "training_share": 0.037,
+     "work_share": 0.0548
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0139
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.1652
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 59.3791,
+    "fit": 0.0,
+    "growth": 0.7814,
+    "training_gap": 1.0,
+    "work_share": 0.1652,
+    "training_share": 0.0,
+    "province_growth": 0.0643,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 35.1334,
+    "fit": 1.0,
+    "growth": 0.054,
+    "training_gap": 0.0,
+    "work_share": 0.0569,
+    "training_share": 0.2963,
+    "province_growth": 0.0129,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 34.557,
+    "fit": 1.0,
+    "growth": 0.0189,
+    "training_gap": 0.0178,
+    "work_share": 0.0029,
+    "training_share": 0.0,
+    "province_growth": 0.0872,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 34.3213,
+    "fit": 1.0,
+    "growth": 0.0296,
+    "training_gap": 0.0,
+    "work_share": 0.0069,
+    "training_share": 0.0741,
+    "province_growth": 0.0584,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0493,
+    "training_share": 0.4444,
+    "province_growth": -0.0767,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0,
+    "work_share": 0.0543,
+    "training_share": 0.0741,
+    "province_growth": 0.2503,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 16.753,
+    "fit": 0.0,
+    "growth": 0.395,
+    "training_gap": 0.1076,
+    "work_share": 0.0548,
+    "training_share": 0.037,
+    "province_growth": 0.098,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 7.3436,
+    "fit": 0.0,
+    "growth": 0.136,
+    "training_gap": 0.0843,
+    "work_share": 0.0139,
+    "training_share": 0.0,
+    "province_growth": 0.1328,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.5958,
+    "training_share": 0.0741,
+    "province_growth": 0.0743,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "Manufacturing",
+   "ICT"
+  ],
+  "flags": [
+   "Sector growth rests on thin survey cells for: ICT."
+  ]
+ },
+ {
+  "name": "Nyamagabe",
+  "province": "Southern",
+  "rank": 6,
+  "rank_range": [
+   4,
+   19
+  ],
+  "gap_score": 61.19,
+  "components": {
+   "idle_youth": {
+    "value": 0.3735,
+    "scaled": 0.3713,
+    "contribution": 9.28
+   },
+   "unemployment": {
+    "value": 0.1615,
+    "scaled": 0.531,
+    "contribution": 13.28
+   },
+   "low_quality_work": {
+    "value": 0.8422,
+    "scaled": 0.9418,
+    "contribution": 23.55
+   },
+   "education_mismatch": {
+    "value": 0.3992,
+    "scaled": 0.6033,
+    "contribution": 15.08
+   }
+  },
+  "youth_population": 99482,
+  "sample_records": 9945,
+  "poverty_rate": 0.5139,
+  "education": {
+   "none": 0.0499,
+   "primary": 0.5665,
+   "secondary": 0.357,
+   "tertiary": 0.0266
+  },
+  "activity": {
+   "employed": 0.3997,
+   "student": 0.2269,
+   "neither": 0.3735
+  },
+  "occupation": {
+   "professional_technical": 0.0551,
+   "services_sales": 0.052,
+   "craft_trades": 0.0507,
+   "elementary": 0.6195,
+   "agricultural": 0.2227
+  },
+  "training": {
+   "total_trades": 38,
+   "trades_per_10k_youth": 3.82,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 1,
+     "training_share": 0.0263,
+     "work_share": 0.635
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 10,
+     "training_share": 0.2632,
+     "work_share": 0.0463
+    },
+    {
+     "sector": "ICT",
+     "trades": 4,
+     "training_share": 0.1053,
+     "work_share": 0.0014
+    },
+    {
+     "sector": "Construction",
+     "trades": 14,
+     "training_share": 0.3684,
+     "work_share": 0.0472
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 1,
+     "training_share": 0.0263,
+     "work_share": 0.0072
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 2,
+     "training_share": 0.0526,
+     "work_share": 0.0588
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 5,
+     "training_share": 0.1316,
+     "work_share": 0.0347
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0063
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 1,
+     "training_share": 0.0263,
+     "work_share": 0.1631
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Construction",
+    "score": 50.0258,
+    "fit": 1.0,
+    "growth": 0.5008,
+    "training_gap": 0.0,
+    "work_share": 0.0472,
+    "training_share": 0.3684,
+    "province_growth": 0.1112,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 42.5456,
+    "fit": 1.0,
+    "growth": 0.2764,
+    "training_gap": 0.0,
+    "work_share": 0.0014,
+    "training_share": 0.1053,
+    "province_growth": 2.0279,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 39.2387,
+    "fit": 1.0,
+    "growth": 0.1772,
+    "training_gap": 0.0,
+    "work_share": 0.0072,
+    "training_share": 0.0263,
+    "province_growth": 0.2592,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 34.8256,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0448,
+    "work_share": 0.0588,
+    "training_share": 0.0526,
+    "province_growth": 0.1785,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0463,
+    "training_share": 0.2632,
+    "province_growth": -0.0466,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Public & other services",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.1631,
+    "training_share": 0.0263,
+    "province_growth": -0.0421,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 18.8772,
+    "fit": 0.0,
+    "growth": 0.5663,
+    "training_gap": 0.0,
+    "work_share": 0.0347,
+    "training_share": 0.1316,
+    "province_growth": 0.1714,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 6.0443,
+    "fit": 0.0,
+    "growth": 0.1351,
+    "training_gap": 0.0462,
+    "work_share": 0.0063,
+    "training_share": 0.0,
+    "province_growth": 0.2242,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.635,
+    "training_share": 0.0263,
+    "province_growth": 0.1161,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Construction",
+   "ICT",
+   "Tourism & hospitality"
+  ],
+  "flags": [
+   "Sector growth rests on thin survey cells for: ICT."
+  ]
+ },
+ {
+  "name": "Nyabihu",
+  "province": "Western",
+  "rank": 7,
+  "rank_range": [
+   1,
+   27
+  ],
+  "gap_score": 59.76,
+  "components": {
+   "idle_youth": {
+    "value": 0.3915,
+    "scaled": 0.448,
+    "contribution": 11.2
+   },
+   "unemployment": {
+    "value": 0.0747,
+    "scaled": 0.0,
+    "contribution": 0.0
+   },
+   "low_quality_work": {
+    "value": 0.8425,
+    "scaled": 0.9424,
+    "contribution": 23.56
+   },
+   "education_mismatch": {
+    "value": 0.4825,
+    "scaled": 1.0,
+    "contribution": 25.0
+   }
+  },
+  "youth_population": 88895,
+  "sample_records": 8872,
+  "poverty_rate": 0.2021,
+  "education": {
+   "none": 0.0772,
+   "primary": 0.5026,
+   "secondary": 0.3932,
+   "tertiary": 0.027
+  },
+  "activity": {
+   "employed": 0.3934,
+   "student": 0.2151,
+   "neither": 0.3915
+  },
+  "occupation": {
+   "professional_technical": 0.0462,
+   "services_sales": 0.0564,
+   "craft_trades": 0.055,
+   "elementary": 0.6588,
+   "agricultural": 0.1837
+  },
+  "training": {
+   "total_trades": 23,
+   "trades_per_10k_youth": 2.59,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 6,
+     "training_share": 0.2609,
+     "work_share": 0.684
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 4,
+     "training_share": 0.1739,
+     "work_share": 0.043
+    },
+    {
+     "sector": "ICT",
+     "trades": 2,
+     "training_share": 0.087,
+     "work_share": 0.0014
+    },
+    {
+     "sector": "Construction",
+     "trades": 6,
+     "training_share": 0.2609,
+     "work_share": 0.0448
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 1,
+     "training_share": 0.0435,
+     "work_share": 0.0072
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 2,
+     "training_share": 0.087,
+     "work_share": 0.0664
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 2,
+     "training_share": 0.087,
+     "work_share": 0.0605
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0091
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0836
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 44.112,
+    "fit": 0.0,
+    "growth": 0.3234,
+    "training_gap": 1.0,
+    "work_share": 0.0836,
+    "training_share": 0.0,
+    "province_growth": 0.0643,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 34.4458,
+    "fit": 1.0,
+    "growth": 0.0334,
+    "training_gap": 0.0,
+    "work_share": 0.043,
+    "training_share": 0.1739,
+    "province_growth": 0.0129,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 34.1778,
+    "fit": 1.0,
+    "growth": 0.0253,
+    "training_gap": 0.0,
+    "work_share": 0.0072,
+    "training_share": 0.0435,
+    "province_growth": 0.0584,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 33.5867,
+    "fit": 1.0,
+    "growth": 0.0076,
+    "training_gap": 0.0,
+    "work_share": 0.0014,
+    "training_share": 0.087,
+    "province_growth": 0.0872,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0448,
+    "training_share": 0.2609,
+    "province_growth": -0.0767,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0,
+    "work_share": 0.0664,
+    "training_share": 0.087,
+    "province_growth": 0.2503,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 11.8887,
+    "fit": 0.0,
+    "growth": 0.3567,
+    "training_gap": 0.0,
+    "work_share": 0.0605,
+    "training_share": 0.087,
+    "province_growth": 0.098,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 6.083,
+    "fit": 0.0,
+    "growth": 0.0731,
+    "training_gap": 0.1094,
+    "work_share": 0.0091,
+    "training_share": 0.0,
+    "province_growth": 0.1328,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.684,
+    "training_share": 0.2609,
+    "province_growth": 0.0743,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "Manufacturing",
+   "Tourism & hospitality"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Gatsibo",
+  "province": "Eastern",
+  "rank": 8,
+  "rank_range": [
+   6,
+   19
+  ],
+  "gap_score": 55.82,
+  "components": {
+   "idle_youth": {
+    "value": 0.388,
+    "scaled": 0.433,
+    "contribution": 10.83
+   },
+   "unemployment": {
+    "value": 0.1606,
+    "scaled": 0.5254,
+    "contribution": 13.13
+   },
+   "low_quality_work": {
+    "value": 0.8504,
+    "scaled": 0.9629,
+    "contribution": 24.07
+   },
+   "education_mismatch": {
+    "value": 0.338,
+    "scaled": 0.3115,
+    "contribution": 7.79
+   }
+  },
+  "youth_population": 144310,
+  "sample_records": 14411,
+  "poverty_rate": 0.1841,
+  "education": {
+   "none": 0.0582,
+   "primary": 0.5756,
+   "secondary": 0.3446,
+   "tertiary": 0.0216
+  },
+  "activity": {
+   "employed": 0.4261,
+   "student": 0.186,
+   "neither": 0.388
+  },
+  "occupation": {
+   "professional_technical": 0.051,
+   "services_sales": 0.0485,
+   "craft_trades": 0.0502,
+   "elementary": 0.5805,
+   "agricultural": 0.2698
+  },
+  "training": {
+   "total_trades": 45,
+   "trades_per_10k_youth": 3.12,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 5,
+     "training_share": 0.1111,
+     "work_share": 0.7093
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 10,
+     "training_share": 0.2222,
+     "work_share": 0.0251
+    },
+    {
+     "sector": "ICT",
+     "trades": 4,
+     "training_share": 0.0889,
+     "work_share": 0.0018
+    },
+    {
+     "sector": "Construction",
+     "trades": 15,
+     "training_share": 0.3333,
+     "work_share": 0.0397
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 4,
+     "training_share": 0.0889,
+     "work_share": 0.0074
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 5,
+     "training_share": 0.1111,
+     "work_share": 0.0561
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0285
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0091
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 2,
+     "training_share": 0.0444,
+     "work_share": 0.1231
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 60.6258,
+    "fit": 0.0,
+    "growth": 0.8188,
+    "training_gap": 1.0,
+    "work_share": 0.1231,
+    "training_share": 0.0444,
+    "province_growth": 0.0571,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 44.2949,
+    "fit": 1.0,
+    "growth": 0.3288,
+    "training_gap": 0.0,
+    "work_share": 0.0074,
+    "training_share": 0.0889,
+    "province_growth": 0.3826,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 39.5272,
+    "fit": 1.0,
+    "growth": 0.1858,
+    "training_gap": 0.0,
+    "work_share": 0.0251,
+    "training_share": 0.2222,
+    "province_growth": 0.0637,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0397,
+    "training_share": 0.3333,
+    "province_growth": -0.0089,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "ICT",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0018,
+    "training_share": 0.0889,
+    "province_growth": -0.0388,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0,
+    "work_share": 0.0561,
+    "training_share": 0.1111,
+    "province_growth": 0.1531,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 31.785,
+    "fit": 0.0,
+    "growth": 0.5917,
+    "training_gap": 0.3619,
+    "work_share": 0.0285,
+    "training_share": 0.0,
+    "province_growth": 0.1786,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 3.8671,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 0.116,
+    "work_share": 0.0091,
+    "training_share": 0.0,
+    "province_growth": -0.3243,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 66.6667,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.7093,
+    "training_share": 0.1111,
+    "province_growth": -0.012,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "Tourism & hospitality",
+   "Manufacturing"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Karongi",
+  "province": "Western",
+  "rank": 9,
+  "rank_range": [
+   5,
+   19
+  ],
+  "gap_score": 55.79,
+  "components": {
+   "idle_youth": {
+    "value": 0.4515,
+    "scaled": 0.703,
+    "contribution": 17.58
+   },
+   "unemployment": {
+    "value": 0.1201,
+    "scaled": 0.2779,
+    "contribution": 6.95
+   },
+   "low_quality_work": {
+    "value": 0.7922,
+    "scaled": 0.8121,
+    "contribution": 20.3
+   },
+   "education_mismatch": {
+    "value": 0.3646,
+    "scaled": 0.4385,
+    "contribution": 10.96
+   }
+  },
+  "youth_population": 95008,
+  "sample_records": 9547,
+  "poverty_rate": 0.3819,
+  "education": {
+   "none": 0.0388,
+   "primary": 0.5253,
+   "secondary": 0.4063,
+   "tertiary": 0.0296
+  },
+  "activity": {
+   "employed": 0.3191,
+   "student": 0.2294,
+   "neither": 0.4515
+  },
+  "occupation": {
+   "professional_technical": 0.0732,
+   "services_sales": 0.0671,
+   "craft_trades": 0.0674,
+   "elementary": 0.5482,
+   "agricultural": 0.244
+  },
+  "training": {
+   "total_trades": 35,
+   "trades_per_10k_youth": 3.68,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 4,
+     "training_share": 0.1143,
+     "work_share": 0.565
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 5,
+     "training_share": 0.1429,
+     "work_share": 0.0402
+    },
+    {
+     "sector": "ICT",
+     "trades": 7,
+     "training_share": 0.2,
+     "work_share": 0.0035
+    },
+    {
+     "sector": "Construction",
+     "trades": 9,
+     "training_share": 0.2571,
+     "work_share": 0.0667
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 5,
+     "training_share": 0.1429,
+     "work_share": 0.0132
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 3,
+     "training_share": 0.0857,
+     "work_share": 0.062
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 2,
+     "training_share": 0.0571,
+     "work_share": 0.0441
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0094
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.1957
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 60.3753,
+    "fit": 0.0,
+    "growth": 0.8113,
+    "training_gap": 1.0,
+    "work_share": 0.1957,
+    "training_share": 0.0,
+    "province_growth": 0.0643,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 34.9845,
+    "fit": 1.0,
+    "growth": 0.0495,
+    "training_gap": 0.0,
+    "work_share": 0.0132,
+    "training_share": 0.1429,
+    "province_growth": 0.0584,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 34.4494,
+    "fit": 1.0,
+    "growth": 0.0335,
+    "training_gap": 0.0,
+    "work_share": 0.0402,
+    "training_share": 0.1429,
+    "province_growth": 0.0129,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 33.9944,
+    "fit": 1.0,
+    "growth": 0.0198,
+    "training_gap": 0.0,
+    "work_share": 0.0035,
+    "training_share": 0.2,
+    "province_growth": 0.0872,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0667,
+    "training_share": 0.2571,
+    "province_growth": -0.0767,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0,
+    "work_share": 0.062,
+    "training_share": 0.0857,
+    "province_growth": 0.2503,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 9.2896,
+    "fit": 0.0,
+    "growth": 0.2787,
+    "training_gap": 0.0,
+    "work_share": 0.0441,
+    "training_share": 0.0571,
+    "province_growth": 0.098,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 4.2763,
+    "fit": 0.0,
+    "growth": 0.0803,
+    "training_gap": 0.048,
+    "work_share": 0.0094,
+    "training_share": 0.0,
+    "province_growth": 0.1328,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.565,
+    "training_share": 0.1143,
+    "province_growth": 0.0743,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "Tourism & hospitality",
+   "Manufacturing"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Bugesera",
+  "province": "Eastern",
+  "rank": 10,
+  "rank_range": [
+   7,
+   21
+  ],
+  "gap_score": 55.17,
+  "components": {
+   "idle_youth": {
+    "value": 0.3918,
+    "scaled": 0.4492,
+    "contribution": 11.23
+   },
+   "unemployment": {
+    "value": 0.1785,
+    "scaled": 0.6351,
+    "contribution": 15.88
+   },
+   "low_quality_work": {
+    "value": 0.7271,
+    "scaled": 0.6431,
+    "contribution": 16.08
+   },
+   "education_mismatch": {
+    "value": 0.3732,
+    "scaled": 0.4793,
+    "contribution": 11.98
+   }
+  },
+  "youth_population": 144084,
+  "sample_records": 14102,
+  "poverty_rate": 0.237,
+  "education": {
+   "none": 0.05,
+   "primary": 0.5237,
+   "secondary": 0.3908,
+   "tertiary": 0.0355
+  },
+  "activity": {
+   "employed": 0.4186,
+   "student": 0.1896,
+   "neither": 0.3918
+  },
+  "occupation": {
+   "professional_technical": 0.0826,
+   "services_sales": 0.0862,
+   "craft_trades": 0.1041,
+   "elementary": 0.5891,
+   "agricultural": 0.1379
+  },
+  "training": {
+   "total_trades": 41,
+   "trades_per_10k_youth": 2.85,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.4132
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 11,
+     "training_share": 0.2683,
+     "work_share": 0.0583
+    },
+    {
+     "sector": "ICT",
+     "trades": 5,
+     "training_share": 0.122,
+     "work_share": 0.0054
+    },
+    {
+     "sector": "Construction",
+     "trades": 16,
+     "training_share": 0.3902,
+     "work_share": 0.1137
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 5,
+     "training_share": 0.122,
+     "work_share": 0.0151
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 2,
+     "training_share": 0.0488,
+     "work_share": 0.0973
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0554
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0152
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 2,
+     "training_share": 0.0488,
+     "work_share": 0.2266
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 62.303,
+    "fit": 0.0,
+    "growth": 0.8691,
+    "training_gap": 1.0,
+    "work_share": 0.2266,
+    "training_share": 0.0488,
+    "province_growth": 0.0571,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 46.2632,
+    "fit": 1.0,
+    "growth": 0.3879,
+    "training_gap": 0.0,
+    "work_share": 0.0151,
+    "training_share": 0.122,
+    "province_growth": 0.3826,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 42.4227,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.2727,
+    "work_share": 0.0973,
+    "training_share": 0.0488,
+    "province_growth": 0.1531,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 41.6385,
+    "fit": 1.0,
+    "growth": 0.2492,
+    "training_gap": 0.0,
+    "work_share": 0.0583,
+    "training_share": 0.2683,
+    "province_growth": 0.0637,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.1137,
+    "training_share": 0.3902,
+    "province_growth": -0.0089,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "ICT",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0054,
+    "training_share": 0.122,
+    "province_growth": -0.0388,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 32.5403,
+    "fit": 0.0,
+    "growth": 0.6645,
+    "training_gap": 0.3117,
+    "work_share": 0.0554,
+    "training_share": 0.0,
+    "province_growth": 0.1786,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 2.8434,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 0.0853,
+    "work_share": 0.0152,
+    "training_share": 0.0,
+    "province_growth": -0.3243,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 66.6667,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.4132,
+    "training_share": 0.0,
+    "province_growth": -0.012,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "Tourism & hospitality",
+   "Trade & retail"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Ngoma",
+  "province": "Eastern",
+  "rank": 11,
+  "rank_range": [
+   8,
+   17
+  ],
+  "gap_score": 54.62,
+  "components": {
+   "idle_youth": {
+    "value": 0.4209,
+    "scaled": 0.5728,
+    "contribution": 14.32
+   },
+   "unemployment": {
+    "value": 0.1316,
+    "scaled": 0.3482,
+    "contribution": 8.71
+   },
+   "low_quality_work": {
+    "value": 0.8287,
+    "scaled": 0.9066,
+    "contribution": 22.67
+   },
+   "education_mismatch": {
+    "value": 0.3476,
+    "scaled": 0.3572,
+    "contribution": 8.93
+   }
+  },
+  "youth_population": 100068,
+  "sample_records": 9947,
+  "poverty_rate": 0.309,
+  "education": {
+   "none": 0.0575,
+   "primary": 0.6035,
+   "secondary": 0.3161,
+   "tertiary": 0.0229
+  },
+  "activity": {
+   "employed": 0.4158,
+   "student": 0.1634,
+   "neither": 0.4209
+  },
+  "occupation": {
+   "professional_technical": 0.0543,
+   "services_sales": 0.0643,
+   "craft_trades": 0.0527,
+   "elementary": 0.5721,
+   "agricultural": 0.2565
+  },
+  "training": {
+   "total_trades": 31,
+   "trades_per_10k_youth": 3.1,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 3,
+     "training_share": 0.0968,
+     "work_share": 0.6674
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 5,
+     "training_share": 0.1613,
+     "work_share": 0.0325
+    },
+    {
+     "sector": "ICT",
+     "trades": 5,
+     "training_share": 0.1613,
+     "work_share": 0.0051
+    },
+    {
+     "sector": "Construction",
+     "trades": 9,
+     "training_share": 0.2903,
+     "work_share": 0.0404
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 3,
+     "training_share": 0.0968,
+     "work_share": 0.008
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 2,
+     "training_share": 0.0645,
+     "work_share": 0.0665
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 3,
+     "training_share": 0.0968,
+     "work_share": 0.0344
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0116
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 1,
+     "training_share": 0.0323,
+     "work_share": 0.1341
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 58.4025,
+    "fit": 0.0,
+    "growth": 0.7521,
+    "training_gap": 1.0,
+    "work_share": 0.1341,
+    "training_share": 0.0323,
+    "province_growth": 0.0571,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 43.3594,
+    "fit": 1.0,
+    "growth": 0.3008,
+    "training_gap": 0.0,
+    "work_share": 0.008,
+    "training_share": 0.0968,
+    "province_growth": 0.3826,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 40.0973,
+    "fit": 1.0,
+    "growth": 0.2029,
+    "training_gap": 0.0,
+    "work_share": 0.0325,
+    "training_share": 0.1613,
+    "province_growth": 0.0637,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 33.9921,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0198,
+    "work_share": 0.0665,
+    "training_share": 0.0645,
+    "province_growth": 0.1531,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0404,
+    "training_share": 0.2903,
+    "province_growth": -0.0089,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "ICT",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0051,
+    "training_share": 0.1613,
+    "province_growth": -0.0388,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 20.1103,
+    "fit": 0.0,
+    "growth": 0.6033,
+    "training_gap": 0.0,
+    "work_share": 0.0344,
+    "training_share": 0.0968,
+    "province_growth": 0.1786,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 3.7848,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 0.1135,
+    "work_share": 0.0116,
+    "training_share": 0.0,
+    "province_growth": -0.3243,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 66.6667,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.6674,
+    "training_share": 0.0968,
+    "province_growth": -0.012,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "Tourism & hospitality",
+   "Manufacturing"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Nyagatare",
+  "province": "Eastern",
+  "rank": 12,
+  "rank_range": [
+   5,
+   26
+  ],
+  "gap_score": 53.78,
+  "components": {
+   "idle_youth": {
+    "value": 0.3517,
+    "scaled": 0.2789,
+    "contribution": 6.97
+   },
+   "unemployment": {
+    "value": 0.1248,
+    "scaled": 0.3065,
+    "contribution": 7.66
+   },
+   "low_quality_work": {
+    "value": 0.8345,
+    "scaled": 0.9217,
+    "contribution": 23.04
+   },
+   "education_mismatch": {
+    "value": 0.4078,
+    "scaled": 0.6441,
+    "contribution": 16.1
+   }
+  },
+  "youth_population": 179964,
+  "sample_records": 17978,
+  "poverty_rate": 0.3637,
+  "education": {
+   "none": 0.0766,
+   "primary": 0.5396,
+   "secondary": 0.3456,
+   "tertiary": 0.0382
+  },
+  "activity": {
+   "employed": 0.4541,
+   "student": 0.1942,
+   "neither": 0.3517
+  },
+  "occupation": {
+   "professional_technical": 0.0596,
+   "services_sales": 0.0541,
+   "craft_trades": 0.0519,
+   "elementary": 0.6497,
+   "agricultural": 0.1847
+  },
+  "training": {
+   "total_trades": 28,
+   "trades_per_10k_youth": 1.56,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.699
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 7,
+     "training_share": 0.25,
+     "work_share": 0.0319
+    },
+    {
+     "sector": "ICT",
+     "trades": 2,
+     "training_share": 0.0714,
+     "work_share": 0.002
+    },
+    {
+     "sector": "Construction",
+     "trades": 9,
+     "training_share": 0.3214,
+     "work_share": 0.0416
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 6,
+     "training_share": 0.2143,
+     "work_share": 0.0102
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 3,
+     "training_share": 0.1071,
+     "work_share": 0.0612
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 1,
+     "training_share": 0.0357,
+     "work_share": 0.0201
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0022
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.1316
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 60.061,
+    "fit": 0.0,
+    "growth": 0.8018,
+    "training_gap": 1.0,
+    "work_share": 0.1316,
+    "training_share": 0.0,
+    "province_growth": 0.0571,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 47.2531,
+    "fit": 1.0,
+    "growth": 0.4176,
+    "training_gap": 0.0,
+    "work_share": 0.0102,
+    "training_share": 0.2143,
+    "province_growth": 0.3826,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 40.5461,
+    "fit": 1.0,
+    "growth": 0.2164,
+    "training_gap": 0.0,
+    "work_share": 0.0319,
+    "training_share": 0.25,
+    "province_growth": 0.0637,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0416,
+    "training_share": 0.3214,
+    "province_growth": -0.0089,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "ICT",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.002,
+    "training_share": 0.0714,
+    "province_growth": -0.0388,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0,
+    "work_share": 0.0612,
+    "training_share": 0.1071,
+    "province_growth": 0.1531,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 12.7877,
+    "fit": 0.0,
+    "growth": 0.3836,
+    "training_gap": 0.0,
+    "work_share": 0.0201,
+    "training_share": 0.0357,
+    "province_growth": 0.1786,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 0.5574,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 0.0167,
+    "work_share": 0.0022,
+    "training_share": 0.0,
+    "province_growth": -0.3243,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 66.6667,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.699,
+    "training_share": 0.0,
+    "province_growth": -0.012,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "Tourism & hospitality",
+   "Manufacturing"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Ngororero",
+  "province": "Western",
+  "rank": 13,
+  "rank_range": [
+   1,
+   26
+  ],
+  "gap_score": 53.19,
+  "components": {
+   "idle_youth": {
+    "value": 0.5213,
+    "scaled": 1.0,
+    "contribution": 25.0
+   },
+   "unemployment": {
+    "value": 0.111,
+    "scaled": 0.2221,
+    "contribution": 5.55
+   },
+   "low_quality_work": {
+    "value": 0.7915,
+    "scaled": 0.8102,
+    "contribution": 20.26
+   },
+   "education_mismatch": {
+    "value": 0.2926,
+    "scaled": 0.0954,
+    "contribution": 2.39
+   }
+  },
+  "youth_population": 93165,
+  "sample_records": 9304,
+  "poverty_rate": 0.3024,
+  "education": {
+   "none": 0.0789,
+   "primary": 0.6255,
+   "secondary": 0.2746,
+   "tertiary": 0.021
+  },
+  "activity": {
+   "employed": 0.3193,
+   "student": 0.1593,
+   "neither": 0.5213
+  },
+  "occupation": {
+   "professional_technical": 0.067,
+   "services_sales": 0.0586,
+   "craft_trades": 0.083,
+   "elementary": 0.6016,
+   "agricultural": 0.1899
+  },
+  "training": {
+   "total_trades": 36,
+   "trades_per_10k_youth": 3.86,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 6,
+     "training_share": 0.1667,
+     "work_share": 0.5814
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 5,
+     "training_share": 0.1389,
+     "work_share": 0.0527
+    },
+    {
+     "sector": "ICT",
+     "trades": 3,
+     "training_share": 0.0833,
+     "work_share": 0.003
+    },
+    {
+     "sector": "Construction",
+     "trades": 16,
+     "training_share": 0.4444,
+     "work_share": 0.0798
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 1,
+     "training_share": 0.0278,
+     "work_share": 0.0082
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 3,
+     "training_share": 0.0833,
+     "work_share": 0.0627
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 2,
+     "training_share": 0.0556,
+     "work_share": 0.0317
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0395
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.141
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 52.6026,
+    "fit": 0.0,
+    "growth": 0.5781,
+    "training_gap": 1.0,
+    "work_share": 0.141,
+    "training_share": 0.0,
+    "province_growth": 0.0643,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 34.78,
+    "fit": 1.0,
+    "growth": 0.0434,
+    "training_gap": 0.0,
+    "work_share": 0.0527,
+    "training_share": 0.1389,
+    "province_growth": 0.0129,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 34.3536,
+    "fit": 1.0,
+    "growth": 0.0306,
+    "training_gap": 0.0,
+    "work_share": 0.0082,
+    "training_share": 0.0278,
+    "province_growth": 0.0584,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 33.8842,
+    "fit": 1.0,
+    "growth": 0.0165,
+    "training_gap": 0.0,
+    "work_share": 0.003,
+    "training_share": 0.0833,
+    "province_growth": 0.0872,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0798,
+    "training_share": 0.4444,
+    "province_growth": -0.0767,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0,
+    "work_share": 0.0627,
+    "training_share": 0.0833,
+    "province_growth": 0.2503,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 20.484,
+    "fit": 0.0,
+    "growth": 0.3343,
+    "training_gap": 0.2802,
+    "work_share": 0.0395,
+    "training_share": 0.0,
+    "province_growth": 0.1328,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 6.6002,
+    "fit": 0.0,
+    "growth": 0.198,
+    "training_gap": 0.0,
+    "work_share": 0.0317,
+    "training_share": 0.0556,
+    "province_growth": 0.098,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.5814,
+    "training_share": 0.1667,
+    "province_growth": 0.0743,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "Manufacturing",
+   "Tourism & hospitality"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Gisagara",
+  "province": "Southern",
+  "rank": 14,
+  "rank_range": [
+   6,
+   25
+  ],
+  "gap_score": 52.67,
+  "components": {
+   "idle_youth": {
+    "value": 0.4314,
+    "scaled": 0.6177,
+    "contribution": 15.44
+   },
+   "unemployment": {
+    "value": 0.1624,
+    "scaled": 0.5363,
+    "contribution": 13.41
+   },
+   "low_quality_work": {
+    "value": 0.8333,
+    "scaled": 0.9187,
+    "contribution": 22.97
+   },
+   "education_mismatch": {
+    "value": 0.2797,
+    "scaled": 0.0339,
+    "contribution": 0.85
+   }
+  },
+  "youth_population": 96344,
+  "sample_records": 9562,
+  "poverty_rate": 0.4564,
+  "education": {
+   "none": 0.0647,
+   "primary": 0.613,
+   "secondary": 0.3021,
+   "tertiary": 0.0202
+  },
+  "activity": {
+   "employed": 0.3941,
+   "student": 0.1745,
+   "neither": 0.4314
+  },
+  "occupation": {
+   "professional_technical": 0.0553,
+   "services_sales": 0.0576,
+   "craft_trades": 0.0538,
+   "elementary": 0.5554,
+   "agricultural": 0.2779
+  },
+  "training": {
+   "total_trades": 32,
+   "trades_per_10k_youth": 3.32,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.6744
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 4,
+     "training_share": 0.125,
+     "work_share": 0.0385
+    },
+    {
+     "sector": "ICT",
+     "trades": 3,
+     "training_share": 0.0938,
+     "work_share": 0.0016
+    },
+    {
+     "sector": "Construction",
+     "trades": 19,
+     "training_share": 0.5938,
+     "work_share": 0.0629
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 1,
+     "training_share": 0.0312,
+     "work_share": 0.0067
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 3,
+     "training_share": 0.0938,
+     "work_share": 0.0584
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0233
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0046
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 2,
+     "training_share": 0.0625,
+     "work_share": 0.1295
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Construction",
+    "score": 55.6876,
+    "fit": 1.0,
+    "growth": 0.6706,
+    "training_gap": 0.0,
+    "work_share": 0.0629,
+    "training_share": 0.5938,
+    "province_growth": 0.1112,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 43.9276,
+    "fit": 1.0,
+    "growth": 0.3178,
+    "training_gap": 0.0,
+    "work_share": 0.0016,
+    "training_share": 0.0938,
+    "province_growth": 2.0279,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 38.8815,
+    "fit": 1.0,
+    "growth": 0.1664,
+    "training_gap": 0.0,
+    "work_share": 0.0067,
+    "training_share": 0.0312,
+    "province_growth": 0.2592,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0385,
+    "training_share": 0.125,
+    "province_growth": -0.0466,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Public & other services",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.1295,
+    "training_share": 0.0625,
+    "province_growth": -0.0421,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0,
+    "work_share": 0.0584,
+    "training_share": 0.0938,
+    "province_growth": 0.1785,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 24.3508,
+    "fit": 0.0,
+    "growth": 0.3827,
+    "training_gap": 0.3478,
+    "work_share": 0.0233,
+    "training_share": 0.0,
+    "province_growth": 0.1714,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 5.5979,
+    "fit": 0.0,
+    "growth": 0.0991,
+    "training_gap": 0.0689,
+    "work_share": 0.0046,
+    "training_share": 0.0,
+    "province_growth": 0.2242,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.6744,
+    "training_share": 0.0,
+    "province_growth": 0.1161,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Construction",
+   "ICT",
+   "Tourism & hospitality"
+  ],
+  "flags": [
+   "Sector growth rests on thin survey cells for: ICT."
+  ]
+ },
+ {
+  "name": "Kamonyi",
+  "province": "Southern",
+  "rank": 15,
+  "rank_range": [
+   5,
+   23
+  ],
+  "gap_score": 52.19,
+  "components": {
+   "idle_youth": {
+    "value": 0.394,
+    "scaled": 0.4585,
+    "contribution": 11.46
+   },
+   "unemployment": {
+    "value": 0.1938,
+    "scaled": 0.7287,
+    "contribution": 18.22
+   },
+   "low_quality_work": {
+    "value": 0.7115,
+    "scaled": 0.6028,
+    "contribution": 15.07
+   },
+   "education_mismatch": {
+    "value": 0.3351,
+    "scaled": 0.2976,
+    "contribution": 7.44
+   }
+  },
+  "youth_population": 111828,
+  "sample_records": 11120,
+  "poverty_rate": 0.397,
+  "education": {
+   "none": 0.0335,
+   "primary": 0.514,
+   "secondary": 0.412,
+   "tertiary": 0.0404
+  },
+  "activity": {
+   "employed": 0.388,
+   "student": 0.2181,
+   "neither": 0.394
+  },
+  "occupation": {
+   "professional_technical": 0.0751,
+   "services_sales": 0.0919,
+   "craft_trades": 0.1215,
+   "elementary": 0.5398,
+   "agricultural": 0.1718
+  },
+  "training": {
+   "total_trades": 28,
+   "trades_per_10k_youth": 2.5,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.3647
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 5,
+     "training_share": 0.1786,
+     "work_share": 0.0536
+    },
+    {
+     "sector": "ICT",
+     "trades": 8,
+     "training_share": 0.2857,
+     "work_share": 0.0052
+    },
+    {
+     "sector": "Construction",
+     "trades": 12,
+     "training_share": 0.4286,
+     "work_share": 0.099
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0151
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 2,
+     "training_share": 0.0714,
+     "work_share": 0.0878
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.055
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0675
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 1,
+     "training_share": 0.0357,
+     "work_share": 0.2521
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Construction",
+    "score": 56.768,
+    "fit": 1.0,
+    "growth": 0.703,
+    "training_gap": 0.0,
+    "work_share": 0.099,
+    "training_share": 0.4286,
+    "province_growth": 0.1112,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 55.7958,
+    "fit": 1.0,
+    "growth": 0.6739,
+    "training_gap": 0.0,
+    "work_share": 0.0052,
+    "training_share": 0.2857,
+    "province_growth": 2.0279,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 43.9495,
+    "fit": 1.0,
+    "growth": 0.2489,
+    "training_gap": 0.0695,
+    "work_share": 0.0151,
+    "training_share": 0.0,
+    "province_growth": 0.2592,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Mining",
+    "score": 42.6188,
+    "fit": 0.0,
+    "growth": 0.9665,
+    "training_gap": 0.3121,
+    "work_share": 0.0675,
+    "training_share": 0.0,
+    "province_growth": 0.2242,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 35.8496,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0755,
+    "work_share": 0.0878,
+    "training_share": 0.0714,
+    "province_growth": 0.1785,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0536,
+    "training_share": 0.1786,
+    "province_growth": -0.0466,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Public & other services",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.2521,
+    "training_share": 0.0357,
+    "province_growth": -0.0421,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 28.5251,
+    "fit": 0.0,
+    "growth": 0.6016,
+    "training_gap": 0.2541,
+    "work_share": 0.055,
+    "training_share": 0.0,
+    "province_growth": 0.1714,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.3647,
+    "training_share": 0.0,
+    "province_growth": 0.1161,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Construction",
+   "ICT",
+   "Tourism & hospitality"
+  ],
+  "flags": [
+   "Sector growth rests on thin survey cells for: ICT."
+  ]
+ },
+ {
+  "name": "Muhanga",
+  "province": "Southern",
+  "rank": 16,
+  "rank_range": [
+   8,
+   25
+  ],
+  "gap_score": 51.2,
+  "components": {
+   "idle_youth": {
+    "value": 0.4163,
+    "scaled": 0.5535,
+    "contribution": 13.84
+   },
+   "unemployment": {
+    "value": 0.1773,
+    "scaled": 0.6278,
+    "contribution": 15.7
+   },
+   "low_quality_work": {
+    "value": 0.6796,
+    "scaled": 0.52,
+    "contribution": 13.0
+   },
+   "education_mismatch": {
+    "value": 0.3453,
+    "scaled": 0.3464,
+    "contribution": 8.66
+   }
+  },
+  "youth_population": 90670,
+  "sample_records": 8837,
+  "poverty_rate": 0.1495,
+  "education": {
+   "none": 0.023,
+   "primary": 0.5218,
+   "secondary": 0.4121,
+   "tertiary": 0.043
+  },
+  "activity": {
+   "employed": 0.3662,
+   "student": 0.2175,
+   "neither": 0.4163
+  },
+  "occupation": {
+   "professional_technical": 0.0848,
+   "services_sales": 0.1027,
+   "craft_trades": 0.1328,
+   "elementary": 0.5016,
+   "agricultural": 0.178
+  },
+  "training": {
+   "total_trades": 83,
+   "trades_per_10k_youth": 9.15,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 3,
+     "training_share": 0.0361,
+     "work_share": 0.3262
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 14,
+     "training_share": 0.1687,
+     "work_share": 0.0586
+    },
+    {
+     "sector": "ICT",
+     "trades": 15,
+     "training_share": 0.1807,
+     "work_share": 0.008
+    },
+    {
+     "sector": "Construction",
+     "trades": 22,
+     "training_share": 0.2651,
+     "work_share": 0.0731
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 4,
+     "training_share": 0.0482,
+     "work_share": 0.0248
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 7,
+     "training_share": 0.0843,
+     "work_share": 0.1164
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 13,
+     "training_share": 0.1566,
+     "work_share": 0.0603
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0667
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 5,
+     "training_share": 0.0602,
+     "work_share": 0.2659
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "ICT",
+    "score": 59.4704,
+    "fit": 1.0,
+    "growth": 0.7841,
+    "training_gap": 0.0,
+    "work_share": 0.008,
+    "training_share": 0.1807,
+    "province_growth": 2.0279,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Construction",
+    "score": 46.3648,
+    "fit": 1.0,
+    "growth": 0.3909,
+    "training_gap": 0.0,
+    "work_share": 0.0731,
+    "training_share": 0.2651,
+    "province_growth": 0.1112,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 43.622,
+    "fit": 1.0,
+    "growth": 0.3087,
+    "training_gap": 0.0,
+    "work_share": 0.0248,
+    "training_share": 0.0482,
+    "province_growth": 0.2592,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 38.5358,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.1561,
+    "work_share": 0.1164,
+    "training_share": 0.0843,
+    "province_growth": 0.1785,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 34.7658,
+    "fit": 0.0,
+    "growth": 0.7189,
+    "training_gap": 0.3241,
+    "work_share": 0.0667,
+    "training_share": 0.0,
+    "province_growth": 0.2242,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0586,
+    "training_share": 0.1687,
+    "province_growth": -0.0466,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Public & other services",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.2659,
+    "training_share": 0.0602,
+    "province_growth": -0.0421,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 16.5734,
+    "fit": 0.0,
+    "growth": 0.4972,
+    "training_gap": 0.0,
+    "work_share": 0.0603,
+    "training_share": 0.1566,
+    "province_growth": 0.1714,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.3262,
+    "training_share": 0.0361,
+    "province_growth": 0.1161,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "ICT",
+   "Construction",
+   "Tourism & hospitality"
+  ],
+  "flags": [
+   "Sector growth rests on thin survey cells for: ICT."
+  ]
+ },
+ {
+  "name": "Musanze",
+  "province": "Northern",
+  "rank": 17,
+  "rank_range": [
+   10,
+   23
+  ],
+  "gap_score": 50.12,
+  "components": {
+   "idle_youth": {
+    "value": 0.3929,
+    "scaled": 0.454,
+    "contribution": 11.35
+   },
+   "unemployment": {
+    "value": 0.1657,
+    "scaled": 0.557,
+    "contribution": 13.92
+   },
+   "low_quality_work": {
+    "value": 0.7119,
+    "scaled": 0.6038,
+    "contribution": 15.09
+   },
+   "education_mismatch": {
+    "value": 0.3544,
+    "scaled": 0.3899,
+    "contribution": 9.75
+   }
+  },
+  "youth_population": 139867,
+  "sample_records": 13789,
+  "poverty_rate": 0.2098,
+  "education": {
+   "none": 0.047,
+   "primary": 0.4629,
+   "secondary": 0.4212,
+   "tertiary": 0.0689
+  },
+  "activity": {
+   "employed": 0.4092,
+   "student": 0.1979,
+   "neither": 0.3929
+  },
+  "occupation": {
+   "professional_technical": 0.0828,
+   "services_sales": 0.1054,
+   "craft_trades": 0.0998,
+   "elementary": 0.5895,
+   "agricultural": 0.1224
+  },
+  "training": {
+   "total_trades": 65,
+   "trades_per_10k_youth": 4.65,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 2,
+     "training_share": 0.0308,
+     "work_share": 0.4294
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 9,
+     "training_share": 0.1385,
+     "work_share": 0.0689
+    },
+    {
+     "sector": "ICT",
+     "trades": 14,
+     "training_share": 0.2154,
+     "work_share": 0.0061
+    },
+    {
+     "sector": "Construction",
+     "trades": 20,
+     "training_share": 0.3077,
+     "work_share": 0.0941
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 10,
+     "training_share": 0.1538,
+     "work_share": 0.0201
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 4,
+     "training_share": 0.0615,
+     "work_share": 0.1183
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 4,
+     "training_share": 0.0615,
+     "work_share": 0.074
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0039
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 2,
+     "training_share": 0.0308,
+     "work_share": 0.1853
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Manufacturing",
+    "score": 50.788,
+    "fit": 1.0,
+    "growth": 0.5236,
+    "training_gap": 0.0,
+    "work_share": 0.0689,
+    "training_share": 0.1385,
+    "province_growth": 0.2667,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 38.6428,
+    "fit": 1.0,
+    "growth": 0.1593,
+    "training_gap": 0.0,
+    "work_share": 0.0201,
+    "training_share": 0.1538,
+    "province_growth": 0.2785,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 36.0119,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0804,
+    "work_share": 0.074,
+    "training_share": 0.0615,
+    "province_growth": 0.4744,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0941,
+    "training_share": 0.3077,
+    "province_growth": -0.1055,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "ICT",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0061,
+    "training_share": 0.2154,
+    "province_growth": -0.5154,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Public & other services",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.1853,
+    "training_share": 0.0308,
+    "province_growth": -0.022,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 30.4379,
+    "fit": 0.0,
+    "growth": 0.5456,
+    "training_gap": 0.3675,
+    "work_share": 0.1183,
+    "training_share": 0.0615,
+    "province_growth": 0.1618,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 1.817,
+    "fit": 0.0,
+    "growth": 0.0291,
+    "training_gap": 0.0254,
+    "work_share": 0.0039,
+    "training_share": 0.0,
+    "province_growth": 0.2605,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.4294,
+    "training_share": 0.0308,
+    "province_growth": 0.091,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Manufacturing",
+   "Tourism & hospitality",
+   "Transport & logistics"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Rulindo",
+  "province": "Northern",
+  "rank": 18,
+  "rank_range": [
+   7,
+   22
+  ],
+  "gap_score": 49.7,
+  "components": {
+   "idle_youth": {
+    "value": 0.4566,
+    "scaled": 0.725,
+    "contribution": 18.12
+   },
+   "unemployment": {
+    "value": 0.1261,
+    "scaled": 0.3146,
+    "contribution": 7.86
+   },
+   "low_quality_work": {
+    "value": 0.7397,
+    "scaled": 0.676,
+    "contribution": 16.9
+   },
+   "education_mismatch": {
+    "value": 0.3298,
+    "scaled": 0.2723,
+    "contribution": 6.81
+   }
+  },
+  "youth_population": 91344,
+  "sample_records": 9205,
+  "poverty_rate": 0.2164,
+  "education": {
+   "none": 0.033,
+   "primary": 0.5839,
+   "secondary": 0.3527,
+   "tertiary": 0.0304
+  },
+  "activity": {
+   "employed": 0.3708,
+   "student": 0.1726,
+   "neither": 0.4566
+  },
+  "occupation": {
+   "professional_technical": 0.0856,
+   "services_sales": 0.0678,
+   "craft_trades": 0.1069,
+   "elementary": 0.5862,
+   "agricultural": 0.1535
+  },
+  "training": {
+   "total_trades": 43,
+   "trades_per_10k_youth": 4.71,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 7,
+     "training_share": 0.1628,
+     "work_share": 0.4503
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 9,
+     "training_share": 0.2093,
+     "work_share": 0.0632
+    },
+    {
+     "sector": "ICT",
+     "trades": 3,
+     "training_share": 0.0698,
+     "work_share": 0.0037
+    },
+    {
+     "sector": "Construction",
+     "trades": 13,
+     "training_share": 0.3023,
+     "work_share": 0.0862
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 4,
+     "training_share": 0.093,
+     "work_share": 0.0107
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 2,
+     "training_share": 0.0465,
+     "work_share": 0.0777
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 3,
+     "training_share": 0.0698,
+     "work_share": 0.0495
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0617
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 2,
+     "training_share": 0.0465,
+     "work_share": 0.197
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Manufacturing",
+    "score": 57.2658,
+    "fit": 1.0,
+    "growth": 0.718,
+    "training_gap": 0.0,
+    "work_share": 0.0632,
+    "training_share": 0.2093,
+    "province_growth": 0.2667,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 37.5484,
+    "fit": 1.0,
+    "growth": 0.1265,
+    "training_gap": 0.0,
+    "work_share": 0.0107,
+    "training_share": 0.093,
+    "province_growth": 0.2785,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Mining",
+    "score": 36.4961,
+    "fit": 0.0,
+    "growth": 0.6845,
+    "training_gap": 0.4103,
+    "work_share": 0.0617,
+    "training_share": 0.0,
+    "province_growth": 0.2605,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0862,
+    "training_share": 0.3023,
+    "province_growth": -0.1055,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "ICT",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0037,
+    "training_share": 0.0698,
+    "province_growth": -0.5154,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Public & other services",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.197,
+    "training_share": 0.0465,
+    "province_growth": -0.022,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0,
+    "work_share": 0.0495,
+    "training_share": 0.0698,
+    "province_growth": 0.4744,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 24.7397,
+    "fit": 0.0,
+    "growth": 0.535,
+    "training_gap": 0.2072,
+    "work_share": 0.0777,
+    "training_share": 0.0465,
+    "province_growth": 0.1618,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.4503,
+    "training_share": 0.1628,
+    "province_growth": 0.091,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Manufacturing",
+   "Tourism & hospitality",
+   "Mining"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Nyanza",
+  "province": "Southern",
+  "rank": 19,
+  "rank_range": [
+   12,
+   23
+  ],
+  "gap_score": 49.23,
+  "components": {
+   "idle_youth": {
+    "value": 0.4017,
+    "scaled": 0.4915,
+    "contribution": 12.29
+   },
+   "unemployment": {
+    "value": 0.1608,
+    "scaled": 0.5266,
+    "contribution": 13.16
+   },
+   "low_quality_work": {
+    "value": 0.7772,
+    "scaled": 0.7731,
+    "contribution": 19.33
+   },
+   "education_mismatch": {
+    "value": 0.31,
+    "scaled": 0.1781,
+    "contribution": 4.45
+   }
+  },
+  "youth_population": 87908,
+  "sample_records": 8738,
+  "poverty_rate": 0.4327,
+  "education": {
+   "none": 0.0461,
+   "primary": 0.5363,
+   "secondary": 0.3884,
+   "tertiary": 0.0292
+  },
+  "activity": {
+   "employed": 0.3725,
+   "student": 0.2258,
+   "neither": 0.4017
+  },
+  "occupation": {
+   "professional_technical": 0.0645,
+   "services_sales": 0.0721,
+   "craft_trades": 0.0862,
+   "elementary": 0.5782,
+   "agricultural": 0.199
+  },
+  "training": {
+   "total_trades": 83,
+   "trades_per_10k_youth": 9.44,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 1,
+     "training_share": 0.012,
+     "work_share": 0.5341
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 12,
+     "training_share": 0.1446,
+     "work_share": 0.0522
+    },
+    {
+     "sector": "ICT",
+     "trades": 24,
+     "training_share": 0.2892,
+     "work_share": 0.0019
+    },
+    {
+     "sector": "Construction",
+     "trades": 23,
+     "training_share": 0.2771,
+     "work_share": 0.0715
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 4,
+     "training_share": 0.0482,
+     "work_share": 0.0111
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 5,
+     "training_share": 0.0602,
+     "work_share": 0.069
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 12,
+     "training_share": 0.1446,
+     "work_share": 0.0393
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0168
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 2,
+     "training_share": 0.0241,
+     "work_share": 0.2042
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Construction",
+    "score": 54.8658,
+    "fit": 1.0,
+    "growth": 0.646,
+    "training_gap": 0.0,
+    "work_share": 0.0715,
+    "training_share": 0.2771,
+    "province_growth": 0.1112,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 43.6058,
+    "fit": 1.0,
+    "growth": 0.3082,
+    "training_gap": 0.0,
+    "work_share": 0.0019,
+    "training_share": 0.2892,
+    "province_growth": 2.0279,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 41.089,
+    "fit": 1.0,
+    "growth": 0.2327,
+    "training_gap": 0.0,
+    "work_share": 0.0111,
+    "training_share": 0.0482,
+    "province_growth": 0.2592,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 34.9509,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0485,
+    "work_share": 0.069,
+    "training_share": 0.0602,
+    "province_growth": 0.1785,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0522,
+    "training_share": 0.1446,
+    "province_growth": -0.0466,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Public & other services",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.2042,
+    "training_share": 0.0241,
+    "province_growth": -0.0421,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 18.2138,
+    "fit": 0.0,
+    "growth": 0.5464,
+    "training_gap": 0.0,
+    "work_share": 0.0393,
+    "training_share": 0.1446,
+    "province_growth": 0.1714,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 13.2663,
+    "fit": 0.0,
+    "growth": 0.305,
+    "training_gap": 0.093,
+    "work_share": 0.0168,
+    "training_share": 0.0,
+    "province_growth": 0.2242,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.5341,
+    "training_share": 0.012,
+    "province_growth": 0.1161,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Construction",
+   "ICT",
+   "Tourism & hospitality"
+  ],
+  "flags": [
+   "Sector growth rests on thin survey cells for: ICT."
+  ]
+ },
+ {
+  "name": "Ruhango",
+  "province": "Southern",
+  "rank": 20,
+  "rank_range": [
+   11,
+   23
+  ],
+  "gap_score": 47.59,
+  "components": {
+   "idle_youth": {
+    "value": 0.4303,
+    "scaled": 0.613,
+    "contribution": 15.33
+   },
+   "unemployment": {
+    "value": 0.1217,
+    "scaled": 0.2875,
+    "contribution": 7.19
+   },
+   "low_quality_work": {
+    "value": 0.7783,
+    "scaled": 0.776,
+    "contribution": 19.4
+   },
+   "education_mismatch": {
+    "value": 0.3203,
+    "scaled": 0.227,
+    "contribution": 5.68
+   }
+  },
+  "youth_population": 85112,
+  "sample_records": 8547,
+  "poverty_rate": 0.1499,
+  "education": {
+   "none": 0.0442,
+   "primary": 0.5458,
+   "secondary": 0.3766,
+   "tertiary": 0.0333
+  },
+  "activity": {
+   "employed": 0.3292,
+   "student": 0.2405,
+   "neither": 0.4303
+  },
+  "occupation": {
+   "professional_technical": 0.0748,
+   "services_sales": 0.0655,
+   "craft_trades": 0.0813,
+   "elementary": 0.5815,
+   "agricultural": 0.1969
+  },
+  "training": {
+   "total_trades": 85,
+   "trades_per_10k_youth": 9.99,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 2,
+     "training_share": 0.0235,
+     "work_share": 0.5104
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 17,
+     "training_share": 0.2,
+     "work_share": 0.0578
+    },
+    {
+     "sector": "ICT",
+     "trades": 17,
+     "training_share": 0.2,
+     "work_share": 0.0025
+    },
+    {
+     "sector": "Construction",
+     "trades": 24,
+     "training_share": 0.2824,
+     "work_share": 0.0636
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 5,
+     "training_share": 0.0588,
+     "work_share": 0.0077
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 4,
+     "training_share": 0.0471,
+     "work_share": 0.0691
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 13,
+     "training_share": 0.1529,
+     "work_share": 0.0615
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0218
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 3,
+     "training_share": 0.0353,
+     "work_share": 0.2055
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Construction",
+    "score": 52.4354,
+    "fit": 1.0,
+    "growth": 0.5731,
+    "training_gap": 0.0,
+    "work_share": 0.0636,
+    "training_share": 0.2824,
+    "province_growth": 0.1112,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 46.9806,
+    "fit": 1.0,
+    "growth": 0.4094,
+    "training_gap": 0.0,
+    "work_share": 0.0025,
+    "training_share": 0.2,
+    "province_growth": 2.0279,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 38.7484,
+    "fit": 1.0,
+    "growth": 0.1625,
+    "training_gap": 0.0,
+    "work_share": 0.0077,
+    "training_share": 0.0588,
+    "province_growth": 0.2592,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 37.6555,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.1297,
+    "work_share": 0.0691,
+    "training_share": 0.0471,
+    "province_growth": 0.1785,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0578,
+    "training_share": 0.2,
+    "province_growth": -0.0466,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Public & other services",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.2055,
+    "training_share": 0.0353,
+    "province_growth": -0.0421,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 28.4912,
+    "fit": 0.0,
+    "growth": 0.8547,
+    "training_gap": 0.0,
+    "work_share": 0.0615,
+    "training_share": 0.1529,
+    "province_growth": 0.1714,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 17.4755,
+    "fit": 0.0,
+    "growth": 0.3962,
+    "training_gap": 0.1281,
+    "work_share": 0.0218,
+    "training_share": 0.0,
+    "province_growth": 0.2242,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.5104,
+    "training_share": 0.0235,
+    "province_growth": 0.1161,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Construction",
+   "ICT",
+   "Tourism & hospitality"
+  ],
+  "flags": [
+   "Sector growth rests on thin survey cells for: ICT."
+  ]
+ },
+ {
+  "name": "Gakenke",
+  "province": "Northern",
+  "rank": 21,
+  "rank_range": [
+   8,
+   27
+  ],
+  "gap_score": 47.08,
+  "components": {
+   "idle_youth": {
+    "value": 0.3858,
+    "scaled": 0.4238,
+    "contribution": 10.59
+   },
+   "unemployment": {
+    "value": 0.0884,
+    "scaled": 0.0839,
+    "contribution": 2.1
+   },
+   "low_quality_work": {
+    "value": 0.8253,
+    "scaled": 0.898,
+    "contribution": 22.45
+   },
+   "education_mismatch": {
+    "value": 0.3728,
+    "scaled": 0.4774,
+    "contribution": 11.93
+   }
+  },
+  "youth_population": 94673,
+  "sample_records": 9495,
+  "poverty_rate": 0.2447,
+  "education": {
+   "none": 0.03,
+   "primary": 0.596,
+   "secondary": 0.3487,
+   "tertiary": 0.0254
+  },
+  "activity": {
+   "employed": 0.4479,
+   "student": 0.1663,
+   "neither": 0.3858
+  },
+  "occupation": {
+   "professional_technical": 0.0571,
+   "services_sales": 0.046,
+   "craft_trades": 0.0716,
+   "elementary": 0.5674,
+   "agricultural": 0.2579
+  },
+  "training": {
+   "total_trades": 24,
+   "trades_per_10k_youth": 2.54,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 4,
+     "training_share": 0.1667,
+     "work_share": 0.6286
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 11,
+     "training_share": 0.4583,
+     "work_share": 0.0361
+    },
+    {
+     "sector": "ICT",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0014
+    },
+    {
+     "sector": "Construction",
+     "trades": 7,
+     "training_share": 0.2917,
+     "work_share": 0.0399
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.005
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 1,
+     "training_share": 0.0417,
+     "work_share": 0.0441
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0362
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0702
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 1,
+     "training_share": 0.0417,
+     "work_share": 0.1385
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Mining",
+    "score": 57.4776,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.7243,
+    "work_share": 0.0702,
+    "training_share": 0.0,
+    "province_growth": 0.2605,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 50.8968,
+    "fit": 1.0,
+    "growth": 0.5269,
+    "training_gap": 0.0,
+    "work_share": 0.0361,
+    "training_share": 0.4583,
+    "province_growth": 0.2667,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 43.8307,
+    "fit": 0.0,
+    "growth": 0.9408,
+    "training_gap": 0.3741,
+    "work_share": 0.0362,
+    "training_share": 0.0,
+    "province_growth": 0.4744,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 37.574,
+    "fit": 1.0,
+    "growth": 0.0758,
+    "training_gap": 0.0514,
+    "work_share": 0.005,
+    "training_share": 0.0,
+    "province_growth": 0.2785,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "ICT",
+    "score": 33.8268,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0148,
+    "work_share": 0.0014,
+    "training_share": 0.0,
+    "province_growth": -0.5154,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0399,
+    "training_share": 0.2917,
+    "province_growth": -0.1055,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Public & other services",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.1385,
+    "training_share": 0.0417,
+    "province_growth": -0.022,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 13.8353,
+    "fit": 0.0,
+    "growth": 0.3902,
+    "training_gap": 0.0248,
+    "work_share": 0.0441,
+    "training_share": 0.0417,
+    "province_growth": 0.1618,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.6286,
+    "training_share": 0.1667,
+    "province_growth": 0.091,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Mining",
+   "Manufacturing",
+   "Transport & logistics"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Rusizi",
+  "province": "Western",
+  "rank": 22,
+  "rank_range": [
+   8,
+   26
+  ],
+  "gap_score": 46.73,
+  "components": {
+   "idle_youth": {
+    "value": 0.4102,
+    "scaled": 0.5274,
+    "contribution": 13.19
+   },
+   "unemployment": {
+    "value": 0.1821,
+    "scaled": 0.6569,
+    "contribution": 16.42
+   },
+   "low_quality_work": {
+    "value": 0.7377,
+    "scaled": 0.6706,
+    "contribution": 16.76
+   },
+   "education_mismatch": {
+    "value": 0.2756,
+    "scaled": 0.0143,
+    "contribution": 0.36
+   }
+  },
+  "youth_population": 123181,
+  "sample_records": 12078,
+  "poverty_rate": 0.4416,
+  "education": {
+   "none": 0.043,
+   "primary": 0.5237,
+   "secondary": 0.3946,
+   "tertiary": 0.0387
+  },
+  "activity": {
+   "employed": 0.3577,
+   "student": 0.2322,
+   "neither": 0.4102
+  },
+  "occupation": {
+   "professional_technical": 0.0765,
+   "services_sales": 0.0997,
+   "craft_trades": 0.0862,
+   "elementary": 0.5053,
+   "agricultural": 0.2323
+  },
+  "training": {
+   "total_trades": 30,
+   "trades_per_10k_youth": 2.44,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.4938
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 7,
+     "training_share": 0.2333,
+     "work_share": 0.0563
+    },
+    {
+     "sector": "ICT",
+     "trades": 4,
+     "training_share": 0.1333,
+     "work_share": 0.0035
+    },
+    {
+     "sector": "Construction",
+     "trades": 15,
+     "training_share": 0.5,
+     "work_share": 0.057
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 3,
+     "training_share": 0.1,
+     "work_share": 0.0255
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 1,
+     "training_share": 0.0333,
+     "work_share": 0.0975
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0728
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0127
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.1809
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 49.2316,
+    "fit": 0.0,
+    "growth": 0.4769,
+    "training_gap": 1.0,
+    "work_share": 0.1809,
+    "training_share": 0.0,
+    "province_growth": 0.0643,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 45.1544,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.3546,
+    "work_share": 0.0975,
+    "training_share": 0.0333,
+    "province_growth": 0.2503,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 35.3717,
+    "fit": 1.0,
+    "growth": 0.0612,
+    "training_gap": 0.0,
+    "work_share": 0.0255,
+    "training_share": 0.1,
+    "province_growth": 0.0584,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 34.327,
+    "fit": 1.0,
+    "growth": 0.0298,
+    "training_gap": 0.0,
+    "work_share": 0.0563,
+    "training_share": 0.2333,
+    "province_growth": 0.0129,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "ICT",
+    "score": 33.7472,
+    "fit": 1.0,
+    "growth": 0.0124,
+    "training_gap": 0.0,
+    "work_share": 0.0035,
+    "training_share": 0.1333,
+    "province_growth": 0.0872,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.057,
+    "training_share": 0.5,
+    "province_growth": -0.0767,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 23.169,
+    "fit": 0.0,
+    "growth": 0.2925,
+    "training_gap": 0.4025,
+    "work_share": 0.0728,
+    "training_share": 0.0,
+    "province_growth": 0.098,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 4.6289,
+    "fit": 0.0,
+    "growth": 0.0689,
+    "training_gap": 0.07,
+    "work_share": 0.0127,
+    "training_share": 0.0,
+    "province_growth": 0.1328,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 100.0,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.4938,
+    "training_share": 0.0,
+    "province_growth": 0.0743,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "Trade & retail",
+   "Tourism & hospitality"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Kirehe",
+  "province": "Eastern",
+  "rank": 23,
+  "rank_range": [
+   12,
+   27
+  ],
+  "gap_score": 44.79,
+  "components": {
+   "idle_youth": {
+    "value": 0.4119,
+    "scaled": 0.5348,
+    "contribution": 13.37
+   },
+   "unemployment": {
+    "value": 0.092,
+    "scaled": 0.1058,
+    "contribution": 2.65
+   },
+   "low_quality_work": {
+    "value": 0.8274,
+    "scaled": 0.9033,
+    "contribution": 22.58
+   },
+   "education_mismatch": {
+    "value": 0.3246,
+    "scaled": 0.2476,
+    "contribution": 6.19
+   }
+  },
+  "youth_population": 123177,
+  "sample_records": 12210,
+  "poverty_rate": 0.1424,
+  "education": {
+   "none": 0.0615,
+   "primary": 0.5551,
+   "secondary": 0.3624,
+   "tertiary": 0.021
+  },
+  "activity": {
+   "employed": 0.3845,
+   "student": 0.2036,
+   "neither": 0.4119
+  },
+  "occupation": {
+   "professional_technical": 0.0549,
+   "services_sales": 0.0607,
+   "craft_trades": 0.0571,
+   "elementary": 0.5481,
+   "agricultural": 0.2793
+  },
+  "training": {
+   "total_trades": 23,
+   "trades_per_10k_youth": 1.87,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 2,
+     "training_share": 0.087,
+     "work_share": 0.6895
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 4,
+     "training_share": 0.1739,
+     "work_share": 0.0368
+    },
+    {
+     "sector": "ICT",
+     "trades": 3,
+     "training_share": 0.1304,
+     "work_share": 0.0026
+    },
+    {
+     "sector": "Construction",
+     "trades": 8,
+     "training_share": 0.3478,
+     "work_share": 0.0415
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 4,
+     "training_share": 0.1739,
+     "work_share": 0.0119
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 1,
+     "training_share": 0.0435,
+     "work_share": 0.0604
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 1,
+     "training_share": 0.0435,
+     "work_share": 0.0312
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.002
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.1241
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 58.8599,
+    "fit": 0.0,
+    "growth": 0.7658,
+    "training_gap": 1.0,
+    "work_share": 0.1241,
+    "training_share": 0.0,
+    "province_growth": 0.0571,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 49.7612,
+    "fit": 1.0,
+    "growth": 0.4928,
+    "training_gap": 0.0,
+    "work_share": 0.0119,
+    "training_share": 0.1739,
+    "province_growth": 0.3826,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 41.761,
+    "fit": 1.0,
+    "growth": 0.2528,
+    "training_gap": 0.0,
+    "work_share": 0.0368,
+    "training_share": 0.1739,
+    "province_growth": 0.0637,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 37.8914,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.1367,
+    "work_share": 0.0604,
+    "training_share": 0.0435,
+    "province_growth": 0.1531,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0415,
+    "training_share": 0.3478,
+    "province_growth": -0.0089,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "ICT",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0026,
+    "training_share": 0.1304,
+    "province_growth": -0.0388,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 20.0879,
+    "fit": 0.0,
+    "growth": 0.6026,
+    "training_gap": 0.0,
+    "work_share": 0.0312,
+    "training_share": 0.0435,
+    "province_growth": 0.1786,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 0.5363,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 0.0161,
+    "work_share": 0.002,
+    "training_share": 0.0,
+    "province_growth": -0.3243,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 66.6667,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.6895,
+    "training_share": 0.087,
+    "province_growth": -0.012,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "Tourism & hospitality",
+   "Manufacturing"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Rubavu",
+  "province": "Western",
+  "rank": 24,
+  "rank_range": [
+   15,
+   27
+  ],
+  "gap_score": 43.89,
+  "components": {
+   "idle_youth": {
+    "value": 0.3998,
+    "scaled": 0.4831,
+    "contribution": 12.08
+   },
+   "unemployment": {
+    "value": 0.1533,
+    "scaled": 0.4811,
+    "contribution": 12.03
+   },
+   "low_quality_work": {
+    "value": 0.6824,
+    "scaled": 0.5273,
+    "contribution": 13.18
+   },
+   "education_mismatch": {
+    "value": 0.328,
+    "scaled": 0.2639,
+    "contribution": 6.6
+   }
+  },
+  "youth_population": 151836,
+  "sample_records": 14687,
+  "poverty_rate": 0.3881,
+  "education": {
+   "none": 0.0919,
+   "primary": 0.4725,
+   "secondary": 0.3773,
+   "tertiary": 0.0582
+  },
+  "activity": {
+   "employed": 0.3962,
+   "student": 0.204,
+   "neither": 0.3998
+  },
+  "occupation": {
+   "professional_technical": 0.0739,
+   "services_sales": 0.1507,
+   "craft_trades": 0.093,
+   "elementary": 0.6035,
+   "agricultural": 0.0789
+  },
+  "training": {
+   "total_trades": 46,
+   "trades_per_10k_youth": 3.03,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.4008
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 12,
+     "training_share": 0.2609,
+     "work_share": 0.0438
+    },
+    {
+     "sector": "ICT",
+     "trades": 12,
+     "training_share": 0.2609,
+     "work_share": 0.0075
+    },
+    {
+     "sector": "Construction",
+     "trades": 8,
+     "training_share": 0.1739,
+     "work_share": 0.0761
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 3,
+     "training_share": 0.0652,
+     "work_share": 0.0196
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 4,
+     "training_share": 0.087,
+     "work_share": 0.1793
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 6,
+     "training_share": 0.1304,
+     "work_share": 0.0814
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0152
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 1,
+     "training_share": 0.0217,
+     "work_share": 0.1764
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Trade & retail",
+    "score": 53.2293,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.5969,
+    "work_share": 0.1793,
+    "training_share": 0.087,
+    "province_growth": 0.2503,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Public & other services",
+    "score": 41.7644,
+    "fit": 0.0,
+    "growth": 0.2529,
+    "training_gap": 1.0,
+    "work_share": 0.1764,
+    "training_share": 0.0217,
+    "province_growth": 0.0643,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 34.182,
+    "fit": 1.0,
+    "growth": 0.0255,
+    "training_gap": 0.0,
+    "work_share": 0.0196,
+    "training_share": 0.0652,
+    "province_growth": 0.0584,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 33.8206,
+    "fit": 1.0,
+    "growth": 0.0146,
+    "training_gap": 0.0,
+    "work_share": 0.0075,
+    "training_share": 0.2609,
+    "province_growth": 0.0872,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 33.7532,
+    "fit": 1.0,
+    "growth": 0.0126,
+    "training_gap": 0.0,
+    "work_share": 0.0438,
+    "training_share": 0.2609,
+    "province_growth": 0.0129,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0761,
+    "training_share": 0.1739,
+    "province_growth": -0.0767,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 5.9276,
+    "fit": 0.0,
+    "growth": 0.1778,
+    "training_gap": 0.0,
+    "work_share": 0.0814,
+    "training_share": 0.1304,
+    "province_growth": 0.098,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 4.7593,
+    "fit": 0.0,
+    "growth": 0.0448,
+    "training_gap": 0.0979,
+    "work_share": 0.0152,
+    "training_share": 0.0,
+    "province_growth": 0.1328,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 88.7808,
+    "fit": 1.0,
+    "growth": 0.6634,
+    "training_gap": 1.0,
+    "work_share": 0.4008,
+    "training_share": 0.0,
+    "province_growth": 0.0743,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Trade & retail",
+   "Public & other services",
+   "Tourism & hospitality"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Kayonza",
+  "province": "Eastern",
+  "rank": 25,
+  "rank_range": [
+   14,
+   28
+  ],
+  "gap_score": 42.83,
+  "components": {
+   "idle_youth": {
+    "value": 0.4213,
+    "scaled": 0.5747,
+    "contribution": 14.37
+   },
+   "unemployment": {
+    "value": 0.0955,
+    "scaled": 0.1274,
+    "contribution": 3.18
+   },
+   "low_quality_work": {
+    "value": 0.7956,
+    "scaled": 0.8209,
+    "contribution": 20.52
+   },
+   "education_mismatch": {
+    "value": 0.3125,
+    "scaled": 0.1903,
+    "contribution": 4.76
+   }
+  },
+  "youth_population": 121054,
+  "sample_records": 12098,
+  "poverty_rate": 0.3655,
+  "education": {
+   "none": 0.0683,
+   "primary": 0.5605,
+   "secondary": 0.3417,
+   "tertiary": 0.0295
+  },
+  "activity": {
+   "employed": 0.3905,
+   "student": 0.1882,
+   "neither": 0.4213
+  },
+  "occupation": {
+   "professional_technical": 0.0651,
+   "services_sales": 0.0724,
+   "craft_trades": 0.0669,
+   "elementary": 0.5287,
+   "agricultural": 0.2669
+  },
+  "training": {
+   "total_trades": 36,
+   "trades_per_10k_youth": 2.97,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.615
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 11,
+     "training_share": 0.3056,
+     "work_share": 0.0402
+    },
+    {
+     "sector": "ICT",
+     "trades": 3,
+     "training_share": 0.0833,
+     "work_share": 0.0019
+    },
+    {
+     "sector": "Construction",
+     "trades": 12,
+     "training_share": 0.3333,
+     "work_share": 0.0364
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 4,
+     "training_share": 0.1111,
+     "work_share": 0.0105
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 1,
+     "training_share": 0.0278,
+     "work_share": 0.0833
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 2,
+     "training_share": 0.0556,
+     "work_share": 0.0348
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.016
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 3,
+     "training_share": 0.0833,
+     "work_share": 0.1618
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 57.4768,
+    "fit": 0.0,
+    "growth": 0.7243,
+    "training_gap": 1.0,
+    "work_share": 0.1618,
+    "training_share": 0.0833,
+    "province_growth": 0.0571,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 56.9385,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.7082,
+    "work_share": 0.0833,
+    "training_share": 0.0278,
+    "province_growth": 0.1531,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 43.836,
+    "fit": 1.0,
+    "growth": 0.3151,
+    "training_gap": 0.0,
+    "work_share": 0.0105,
+    "training_share": 0.1111,
+    "province_growth": 0.3826,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 40.0219,
+    "fit": 1.0,
+    "growth": 0.2007,
+    "training_gap": 0.0,
+    "work_share": 0.0402,
+    "training_share": 0.3056,
+    "province_growth": 0.0637,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0364,
+    "training_share": 0.3333,
+    "province_growth": -0.0089,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "ICT",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0019,
+    "training_share": 0.0833,
+    "province_growth": -0.0388,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 16.2536,
+    "fit": 0.0,
+    "growth": 0.4876,
+    "training_gap": 0.0,
+    "work_share": 0.0348,
+    "training_share": 0.0556,
+    "province_growth": 0.1786,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 6.8091,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 0.2043,
+    "work_share": 0.016,
+    "training_share": 0.0,
+    "province_growth": -0.3243,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 66.6667,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.615,
+    "training_share": 0.0,
+    "province_growth": -0.012,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "Trade & retail",
+   "Tourism & hospitality"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Rwamagana",
+  "province": "Eastern",
+  "rank": 26,
+  "rank_range": [
+   15,
+   27
+  ],
+  "gap_score": 42.82,
+  "components": {
+   "idle_youth": {
+    "value": 0.3702,
+    "scaled": 0.3575,
+    "contribution": 8.94
+   },
+   "unemployment": {
+    "value": 0.1199,
+    "scaled": 0.2768,
+    "contribution": 6.92
+   },
+   "low_quality_work": {
+    "value": 0.7375,
+    "scaled": 0.6701,
+    "contribution": 16.75
+   },
+   "education_mismatch": {
+    "value": 0.3583,
+    "scaled": 0.4085,
+    "contribution": 10.21
+   }
+  },
+  "youth_population": 125470,
+  "sample_records": 11981,
+  "poverty_rate": 0.2383,
+  "education": {
+   "none": 0.0422,
+   "primary": 0.5019,
+   "secondary": 0.4146,
+   "tertiary": 0.0413
+  },
+  "activity": {
+   "employed": 0.4334,
+   "student": 0.1964,
+   "neither": 0.3702
+  },
+  "occupation": {
+   "professional_technical": 0.0771,
+   "services_sales": 0.0881,
+   "craft_trades": 0.0974,
+   "elementary": 0.5616,
+   "agricultural": 0.1759
+  },
+  "training": {
+   "total_trades": 44,
+   "trades_per_10k_youth": 3.51,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.4419
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 10,
+     "training_share": 0.2273,
+     "work_share": 0.0553
+    },
+    {
+     "sector": "ICT",
+     "trades": 11,
+     "training_share": 0.25,
+     "work_share": 0.0039
+    },
+    {
+     "sector": "Construction",
+     "trades": 13,
+     "training_share": 0.2955,
+     "work_share": 0.0807
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 4,
+     "training_share": 0.0909,
+     "work_share": 0.0126
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 4,
+     "training_share": 0.0909,
+     "work_share": 0.0897
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 2,
+     "training_share": 0.0455,
+     "work_share": 0.0545
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0267
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.2347
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 65.8534,
+    "fit": 0.0,
+    "growth": 0.9756,
+    "training_gap": 1.0,
+    "work_share": 0.2347,
+    "training_share": 0.0,
+    "province_growth": 0.0571,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 45.0313,
+    "fit": 1.0,
+    "growth": 0.3509,
+    "training_gap": 0.0,
+    "work_share": 0.0126,
+    "training_share": 0.0909,
+    "province_growth": 0.3826,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 41.8689,
+    "fit": 1.0,
+    "growth": 0.2561,
+    "training_gap": 0.0,
+    "work_share": 0.0553,
+    "training_share": 0.2273,
+    "province_growth": 0.0637,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Construction",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0807,
+    "training_share": 0.2955,
+    "province_growth": -0.0089,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "ICT",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0039,
+    "training_share": 0.25,
+    "province_growth": -0.0388,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.0,
+    "work_share": 0.0897,
+    "training_share": 0.0909,
+    "province_growth": 0.1531,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 24.9126,
+    "fit": 0.0,
+    "growth": 0.7087,
+    "training_gap": 0.0387,
+    "work_share": 0.0545,
+    "training_share": 0.0455,
+    "province_growth": 0.1786,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 3.7875,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 0.1136,
+    "work_share": 0.0267,
+    "training_share": 0.0,
+    "province_growth": -0.3243,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 66.6667,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.4419,
+    "training_share": 0.0,
+    "province_growth": -0.012,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "Tourism & hospitality",
+   "Manufacturing"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Huye",
+  "province": "Southern",
+  "rank": 27,
+  "rank_range": [
+   19,
+   28
+  ],
+  "gap_score": 37.43,
+  "components": {
+   "idle_youth": {
+    "value": 0.3952,
+    "scaled": 0.4637,
+    "contribution": 11.59
+   },
+   "unemployment": {
+    "value": 0.1457,
+    "scaled": 0.4344,
+    "contribution": 10.86
+   },
+   "low_quality_work": {
+    "value": 0.7101,
+    "scaled": 0.5991,
+    "contribution": 14.98
+   },
+   "education_mismatch": {
+    "value": 0.2726,
+    "scaled": 0.0,
+    "contribution": 0.0
+   }
+  },
+  "youth_population": 93617,
+  "sample_records": 8712,
+  "poverty_rate": 0.2419,
+  "education": {
+   "none": 0.0401,
+   "primary": 0.5279,
+   "secondary": 0.3765,
+   "tertiary": 0.0556
+  },
+  "activity": {
+   "employed": 0.3943,
+   "student": 0.2105,
+   "neither": 0.3952
+  },
+  "occupation": {
+   "professional_technical": 0.0955,
+   "services_sales": 0.1095,
+   "craft_trades": 0.0849,
+   "elementary": 0.5541,
+   "agricultural": 0.156
+  },
+  "training": {
+   "total_trades": 42,
+   "trades_per_10k_youth": 4.49,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 6,
+     "training_share": 0.1429,
+     "work_share": 0.3602
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 6,
+     "training_share": 0.1429,
+     "work_share": 0.0595
+    },
+    {
+     "sector": "ICT",
+     "trades": 8,
+     "training_share": 0.1905,
+     "work_share": 0.0041
+    },
+    {
+     "sector": "Construction",
+     "trades": 12,
+     "training_share": 0.2857,
+     "work_share": 0.0709
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 5,
+     "training_share": 0.119,
+     "work_share": 0.0249
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 2,
+     "training_share": 0.0476,
+     "work_share": 0.1115
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0458
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0096
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 3,
+     "training_share": 0.0714,
+     "work_share": 0.3133
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "ICT",
+    "score": 47.3585,
+    "fit": 1.0,
+    "growth": 0.4208,
+    "training_gap": 0.0,
+    "work_share": 0.0041,
+    "training_share": 0.1905,
+    "province_growth": 2.0279,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "Construction",
+    "score": 46.5378,
+    "fit": 1.0,
+    "growth": 0.3961,
+    "training_gap": 0.0,
+    "work_share": 0.0709,
+    "training_share": 0.2857,
+    "province_growth": 0.1112,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 44.1304,
+    "fit": 1.0,
+    "growth": 0.3239,
+    "training_gap": 0.0,
+    "work_share": 0.0249,
+    "training_share": 0.119,
+    "province_growth": 0.2592,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 42.1398,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 0.2642,
+    "work_share": 0.1115,
+    "training_share": 0.0476,
+    "province_growth": 0.1785,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 33.3333,
+    "fit": 1.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0595,
+    "training_share": 0.1429,
+    "province_growth": -0.0466,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Public & other services",
+    "score": 33.3333,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 1.0,
+    "work_share": 0.3133,
+    "training_share": 0.0714,
+    "province_growth": -0.0421,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 19.4706,
+    "fit": 0.0,
+    "growth": 0.3946,
+    "training_gap": 0.1895,
+    "work_share": 0.0458,
+    "training_share": 0.0,
+    "province_growth": 0.1714,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 4.9407,
+    "fit": 0.0,
+    "growth": 0.1084,
+    "training_gap": 0.0398,
+    "work_share": 0.0096,
+    "training_share": 0.0,
+    "province_growth": 0.2242,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 96.6214,
+    "fit": 1.0,
+    "growth": 1.0,
+    "training_gap": 0.8986,
+    "work_share": 0.3602,
+    "training_share": 0.1429,
+    "province_growth": 0.1161,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "ICT",
+   "Construction",
+   "Tourism & hospitality"
+  ],
+  "flags": [
+   "Sector growth rests on thin survey cells for: ICT."
+  ]
+ },
+ {
+  "name": "Kicukiro",
+  "province": "Kigali",
+  "rank": 28,
+  "rank_range": [
+   21,
+   29
+  ],
+  "gap_score": 21.82,
+  "components": {
+   "idle_youth": {
+    "value": 0.2862,
+    "scaled": 0.0,
+    "contribution": 0.0
+   },
+   "unemployment": {
+    "value": 0.1496,
+    "scaled": 0.4582,
+    "contribution": 11.45
+   },
+   "low_quality_work": {
+    "value": 0.5433,
+    "scaled": 0.1663,
+    "contribution": 4.16
+   },
+   "education_mismatch": {
+    "value": 0.3247,
+    "scaled": 0.2482,
+    "contribution": 6.2
+   }
+  },
+  "youth_population": 175480,
+  "sample_records": 17145,
+  "poverty_rate": 0.0693,
+  "education": {
+   "none": 0.0283,
+   "primary": 0.3226,
+   "secondary": 0.468,
+   "tertiary": 0.1812
+  },
+  "activity": {
+   "employed": 0.4887,
+   "student": 0.2252,
+   "neither": 0.2862
+  },
+  "occupation": {
+   "professional_technical": 0.1591,
+   "services_sales": 0.168,
+   "craft_trades": 0.1297,
+   "elementary": 0.5318,
+   "agricultural": 0.0114
+  },
+  "training": {
+   "total_trades": 94,
+   "trades_per_10k_youth": 5.36,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 1,
+     "training_share": 0.0106,
+     "work_share": 0.0388
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 14,
+     "training_share": 0.1489,
+     "work_share": 0.0605
+    },
+    {
+     "sector": "ICT",
+     "trades": 18,
+     "training_share": 0.1915,
+     "work_share": 0.0179
+    },
+    {
+     "sector": "Construction",
+     "trades": 24,
+     "training_share": 0.2553,
+     "work_share": 0.1272
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 19,
+     "training_share": 0.2021,
+     "work_share": 0.034
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 5,
+     "training_share": 0.0532,
+     "work_share": 0.1593
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 8,
+     "training_share": 0.0851,
+     "work_share": 0.061
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0034
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 5,
+     "training_share": 0.0532,
+     "work_share": 0.498
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 66.6667,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.498,
+    "training_share": 0.0532,
+    "province_growth": 0.1384,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 38.6285,
+    "fit": 1.0,
+    "growth": 0.1589,
+    "training_gap": 0.0,
+    "work_share": 0.0179,
+    "training_share": 0.1915,
+    "province_growth": 0.6132,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Construction",
+    "score": 37.1167,
+    "fit": 1.0,
+    "growth": 0.1135,
+    "training_gap": 0.0,
+    "work_share": 0.1272,
+    "training_share": 0.2553,
+    "province_growth": 0.0615,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 34.9684,
+    "fit": 1.0,
+    "growth": 0.0491,
+    "training_gap": 0.0,
+    "work_share": 0.034,
+    "training_share": 0.2021,
+    "province_growth": 0.0993,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 34.6481,
+    "fit": 1.0,
+    "growth": 0.0394,
+    "training_gap": 0.0,
+    "work_share": 0.0605,
+    "training_share": 0.1489,
+    "province_growth": 0.045,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 17.0261,
+    "fit": 0.0,
+    "growth": 0.2721,
+    "training_gap": 0.2386,
+    "work_share": 0.1593,
+    "training_share": 0.0532,
+    "province_growth": 0.1177,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 1.0216,
+    "fit": 0.0,
+    "growth": 0.0229,
+    "training_gap": 0.0077,
+    "work_share": 0.0034,
+    "training_share": 0.0,
+    "province_growth": 0.4592,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 0.0,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.061,
+    "training_share": 0.0851,
+    "province_growth": -0.0708,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 35.7463,
+    "fit": 1.0,
+    "growth": 0.0091,
+    "training_gap": 0.0632,
+    "work_share": 0.0388,
+    "training_share": 0.0106,
+    "province_growth": 0.0162,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "ICT",
+   "Construction"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Gasabo",
+  "province": "Kigali",
+  "rank": 29,
+  "rank_range": [
+   28,
+   30
+  ],
+  "gap_score": 13.29,
+  "components": {
+   "idle_youth": {
+    "value": 0.3271,
+    "scaled": 0.1742,
+    "contribution": 4.36
+   },
+   "unemployment": {
+    "value": 0.1203,
+    "scaled": 0.2788,
+    "contribution": 6.97
+   },
+   "low_quality_work": {
+    "value": 0.5011,
+    "scaled": 0.0569,
+    "contribution": 1.42
+   },
+   "education_mismatch": {
+    "value": 0.2772,
+    "scaled": 0.0219,
+    "contribution": 0.55
+   }
+  },
+  "youth_population": 282233,
+  "sample_records": 28023,
+  "poverty_rate": 0.1106,
+  "education": {
+   "none": 0.0335,
+   "primary": 0.3907,
+   "secondary": 0.4498,
+   "tertiary": 0.126
+  },
+  "activity": {
+   "employed": 0.4859,
+   "student": 0.187,
+   "neither": 0.3271
+  },
+  "occupation": {
+   "professional_technical": 0.1598,
+   "services_sales": 0.1736,
+   "craft_trades": 0.1655,
+   "elementary": 0.4786,
+   "agricultural": 0.0224
+  },
+  "training": {
+   "total_trades": 67,
+   "trades_per_10k_youth": 2.37,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 3,
+     "training_share": 0.0448,
+     "work_share": 0.073
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 8,
+     "training_share": 0.1194,
+     "work_share": 0.0927
+    },
+    {
+     "sector": "ICT",
+     "trades": 18,
+     "training_share": 0.2687,
+     "work_share": 0.0166
+    },
+    {
+     "sector": "Construction",
+     "trades": 16,
+     "training_share": 0.2388,
+     "work_share": 0.1207
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 10,
+     "training_share": 0.1493,
+     "work_share": 0.0356
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 4,
+     "training_share": 0.0597,
+     "work_share": 0.1713
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 5,
+     "training_share": 0.0746,
+     "work_share": 0.0646
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0114
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 3,
+     "training_share": 0.0448,
+     "work_share": 0.4142
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 66.6667,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.4142,
+    "training_share": 0.0448,
+    "province_growth": 0.1384,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 39.2558,
+    "fit": 1.0,
+    "growth": 0.1777,
+    "training_gap": 0.0,
+    "work_share": 0.0166,
+    "training_share": 0.2687,
+    "province_growth": 0.6132,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Construction",
+    "score": 37.6507,
+    "fit": 1.0,
+    "growth": 0.1295,
+    "training_gap": 0.0,
+    "work_share": 0.1207,
+    "training_share": 0.2388,
+    "province_growth": 0.0615,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 35.7563,
+    "fit": 1.0,
+    "growth": 0.0727,
+    "training_gap": 0.0,
+    "work_share": 0.0927,
+    "training_share": 0.1194,
+    "province_growth": 0.045,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 35.3881,
+    "fit": 1.0,
+    "growth": 0.0616,
+    "training_gap": 0.0,
+    "work_share": 0.0356,
+    "training_share": 0.1493,
+    "province_growth": 0.0993,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 21.7938,
+    "fit": 0.0,
+    "growth": 0.3517,
+    "training_gap": 0.3021,
+    "work_share": 0.1713,
+    "training_share": 0.0597,
+    "province_growth": 0.1177,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 4.0703,
+    "fit": 0.0,
+    "growth": 0.0913,
+    "training_gap": 0.0308,
+    "work_share": 0.0114,
+    "training_share": 0.0,
+    "province_growth": 0.4592,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 0.0,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 0.0,
+    "work_share": 0.0646,
+    "training_share": 0.0746,
+    "province_growth": -0.0708,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 36.5706,
+    "fit": 1.0,
+    "growth": 0.0207,
+    "training_gap": 0.0764,
+    "work_share": 0.073,
+    "training_share": 0.0448,
+    "province_growth": 0.0162,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "ICT",
+   "Construction"
+  ],
+  "flags": []
+ },
+ {
+  "name": "Nyarugenge",
+  "province": "Kigali",
+  "rank": 30,
+  "rank_range": [
+   29,
+   30
+  ],
+  "gap_score": 11.64,
+  "components": {
+   "idle_youth": {
+    "value": 0.3043,
+    "scaled": 0.077,
+    "contribution": 1.92
+   },
+   "unemployment": {
+    "value": 0.1324,
+    "scaled": 0.3533,
+    "contribution": 8.83
+   },
+   "low_quality_work": {
+    "value": 0.4791,
+    "scaled": 0.0,
+    "contribution": 0.0
+   },
+   "education_mismatch": {
+    "value": 0.28,
+    "scaled": 0.0352,
+    "contribution": 0.88
+   }
+  },
+  "youth_population": 122964,
+  "sample_records": 12098,
+  "poverty_rate": 0.068,
+  "education": {
+   "none": 0.0247,
+   "primary": 0.3607,
+   "secondary": 0.4985,
+   "tertiary": 0.1161
+  },
+  "activity": {
+   "employed": 0.4995,
+   "student": 0.1963,
+   "neither": 0.3043
+  },
+  "occupation": {
+   "professional_technical": 0.1515,
+   "services_sales": 0.2117,
+   "craft_trades": 0.1577,
+   "elementary": 0.4658,
+   "agricultural": 0.0134
+  },
+  "training": {
+   "total_trades": 56,
+   "trades_per_10k_youth": 4.55,
+   "by_sector": [
+    {
+     "sector": "Agriculture & agro-processing",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0687
+    },
+    {
+     "sector": "Manufacturing",
+     "trades": 12,
+     "training_share": 0.2143,
+     "work_share": 0.0707
+    },
+    {
+     "sector": "ICT",
+     "trades": 11,
+     "training_share": 0.1964,
+     "work_share": 0.0214
+    },
+    {
+     "sector": "Construction",
+     "trades": 11,
+     "training_share": 0.1964,
+     "work_share": 0.0904
+    },
+    {
+     "sector": "Tourism & hospitality",
+     "trades": 7,
+     "training_share": 0.125,
+     "work_share": 0.0473
+    },
+    {
+     "sector": "Trade & retail",
+     "trades": 6,
+     "training_share": 0.1071,
+     "work_share": 0.2445
+    },
+    {
+     "sector": "Transport & logistics",
+     "trades": 3,
+     "training_share": 0.0536,
+     "work_share": 0.0647
+    },
+    {
+     "sector": "Mining",
+     "trades": 0,
+     "training_share": 0.0,
+     "work_share": 0.0216
+    },
+    {
+     "sector": "Public & other services",
+     "trades": 6,
+     "training_share": 0.1071,
+     "work_share": 0.3707
+    }
+   ]
+  },
+  "priority_sectors": [
+   {
+    "sector": "Public & other services",
+    "score": 66.6667,
+    "fit": 0.0,
+    "growth": 1.0,
+    "training_gap": 1.0,
+    "work_share": 0.3707,
+    "training_share": 0.1071,
+    "province_growth": 0.1384,
+    "rank": 1,
+    "top": true
+   },
+   {
+    "sector": "ICT",
+    "score": 41.8484,
+    "fit": 1.0,
+    "growth": 0.2555,
+    "training_gap": 0.0,
+    "work_share": 0.0214,
+    "training_share": 0.1964,
+    "province_growth": 0.6132,
+    "rank": 2,
+    "top": true
+   },
+   {
+    "sector": "Construction",
+    "score": 36.9437,
+    "fit": 1.0,
+    "growth": 0.1083,
+    "training_gap": 0.0,
+    "work_share": 0.0904,
+    "training_share": 0.1964,
+    "province_growth": 0.0615,
+    "rank": 3,
+    "top": true
+   },
+   {
+    "sector": "Tourism & hospitality",
+    "score": 36.3848,
+    "fit": 1.0,
+    "growth": 0.0915,
+    "training_gap": 0.0,
+    "work_share": 0.0473,
+    "training_share": 0.125,
+    "province_growth": 0.0993,
+    "rank": 4,
+    "top": false
+   },
+   {
+    "sector": "Trade & retail",
+    "score": 36.084,
+    "fit": 0.0,
+    "growth": 0.5611,
+    "training_gap": 0.5214,
+    "work_share": 0.2445,
+    "training_share": 0.1071,
+    "province_growth": 0.1177,
+    "rank": 5,
+    "top": false
+   },
+   {
+    "sector": "Manufacturing",
+    "score": 35.3991,
+    "fit": 1.0,
+    "growth": 0.062,
+    "training_gap": 0.0,
+    "work_share": 0.0707,
+    "training_share": 0.2143,
+    "province_growth": 0.045,
+    "rank": 6,
+    "top": false
+   },
+   {
+    "sector": "Mining",
+    "score": 9.1967,
+    "fit": 0.0,
+    "growth": 0.1938,
+    "training_gap": 0.0821,
+    "work_share": 0.0216,
+    "training_share": 0.0,
+    "province_growth": 0.4592,
+    "rank": 7,
+    "top": false
+   },
+   {
+    "sector": "Transport & logistics",
+    "score": 1.4134,
+    "fit": 0.0,
+    "growth": 0.0,
+    "training_gap": 0.0424,
+    "work_share": 0.0647,
+    "training_share": 0.0536,
+    "province_growth": -0.0708,
+    "rank": 8,
+    "top": false
+   },
+   {
+    "sector": "Agriculture & agro-processing",
+    "score": 42.7502,
+    "fit": 1.0,
+    "growth": 0.0218,
+    "training_gap": 0.2607,
+    "work_share": 0.0687,
+    "training_share": 0.0,
+    "province_growth": 0.0162,
+    "rank": null,
+    "top": false
+   }
+  ],
+  "top_sectors": [
+   "Public & other services",
+   "ICT",
+   "Construction"
+  ],
+  "flags": []
+ }
+]

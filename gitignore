@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Raw NISR data and converted inputs (check NISR terms of use before sharing)
+data/raw/*
+!data/raw/README.md
+*.dta
+*.sav
+*.zip
+
+# Node / Next.js
+node_modules/
+app/node_modules/
+app/.next/
+app/out/
+app/next-env.d.ts
+*.tsbuildinfo
+
+# Deployment
+.vercel/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and env files
+*.log
+.env
+.env.*

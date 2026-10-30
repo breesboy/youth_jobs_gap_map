@@ -1,0 +1,34 @@
+Data status: nisr
+District         Youth   Score  Rank
+Bugesera       144,084   55.17    10
+Burera         112,899   69.28     3
+Gakenke         94,673   47.08    21
+Gasabo         282,233   13.29    29
+Gatsibo        144,310   55.82     8
+Gicumbi        123,448   75.57     1
+Gisagara        96,344   52.67    14
+Huye            93,617   37.43    27
+Kamonyi        111,828   52.19    15
+Karongi         95,008   55.79     9
+Kayonza        121,054   42.83    25
+Kicukiro       175,480   21.82    28
+Kirehe         123,177   44.79    23
+Muhanga         90,670   51.20    16
+Musanze        139,867   50.12    17
+Ngoma          100,068   54.62    11
+Ngororero       93,165   53.19    13
+Nyabihu         88,895   59.76     7
+Nyagatare      179,964   53.78    12
+Nyamagabe       99,482   61.19     6
+Nyamasheke     102,705   63.43     5
+Nyanza          87,908   49.23    19
+Nyarugenge     122,964   11.64    30
+Nyaruguru       80,280   68.31     4
+Rubavu         151,836   43.89    24
+Ruhango         85,112   47.59    20
+Rulindo         91,344   49.70    18
+Rusizi         123,181   46.73    22
+Rutsiro         98,627   73.26     2
+Rwamagana      125,470   42.82    26
+TOTAL        3,579,693
+Sensitivity: median Spearman 0.8398, min 0.4331, ranking holds: False

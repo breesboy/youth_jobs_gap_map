@@ -1,0 +1,121 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #f5f5f7;
+  --surface: #ffffff;
+  --surface-2: #f5f5f7;
+  --ink: #1d1d1f;
+  --muted: #6e6e73;
+  --faint: #86868b;
+  --line: rgba(0, 0, 0, 0.09);
+  --accent: #007aff;
+  --accent-soft: rgba(0, 122, 255, 0.1);
+  --green: #248a3d;
+  --green-soft: rgba(52, 199, 89, 0.14);
+  --orange: #b25000;
+  --orange-soft: rgba(255, 149, 0, 0.16);
+  --red: #d70015;
+  --red-soft: rgba(255, 59, 48, 0.12);
+  --map-low: #e8eef6;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.04), 0 4px 16px rgba(0, 0, 0, 0.04);
+  --chart-1: #007aff;
+  --chart-2: #5ac8fa;
+  --chart-3: #34c759;
+  --chart-4: #ff9500;
+  --chart-5: #af52de;
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  --bg: #0f0f11;
+  --surface: #1c1c1e;
+  --surface-2: #2c2c2e;
+  --ink: #f5f5f7;
+  --muted: #a1a1a6;
+  --faint: #8e8e93;
+  --line: rgba(255, 255, 255, 0.12);
+  --accent: #0a84ff;
+  --accent-soft: rgba(10, 132, 255, 0.18);
+  --green: #30d158;
+  --green-soft: rgba(48, 209, 88, 0.16);
+  --orange: #ff9f0a;
+  --orange-soft: rgba(255, 159, 10, 0.18);
+  --red: #ff6961;
+  --red-soft: rgba(255, 69, 58, 0.18);
+  --map-low: #26303d;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --chart-1: #0a84ff;
+  --chart-2: #64d2ff;
+  --chart-3: #30d158;
+  --chart-4: #ff9f0a;
+  --chart-5: #bf5af2;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accentsoft: var(--accent-soft);
+  --color-green: var(--green);
+  --color-greensoft: var(--green-soft);
+  --color-orange: var(--orange);
+  --color-orangesoft: var(--orange-soft);
+  --color-red: var(--red);
+  --color-redsoft: var(--red-soft);
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: -0.003em;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+svg path:focus-visible {
+  outline: none;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+}
+
+.fade-in {
+  animation: fade 200ms ease-out both;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

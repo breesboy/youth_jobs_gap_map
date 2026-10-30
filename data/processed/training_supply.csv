@@ -1,0 +1,271 @@
+district,sector,trades,training_share,work_share
+Gicumbi,Agriculture & agro-processing,4,0.1,0.6064
+Gicumbi,Manufacturing,11,0.275,0.0489
+Gicumbi,ICT,9,0.225,0.0035
+Gicumbi,Construction,10,0.25,0.0549
+Gicumbi,Tourism & hospitality,1,0.025,0.0095
+Gicumbi,Trade & retail,4,0.1,0.0715
+Gicumbi,Transport & logistics,0,0.0,0.0415
+Gicumbi,Mining,0,0.0,0.0181
+Gicumbi,Public & other services,1,0.025,0.1457
+Rutsiro,Agriculture & agro-processing,2,0.1538,0.6706
+Rutsiro,Manufacturing,2,0.1538,0.0439
+Rutsiro,ICT,4,0.3077,0.0015
+Rutsiro,Construction,3,0.2308,0.0386
+Rutsiro,Tourism & hospitality,0,0.0,0.0104
+Rutsiro,Trade & retail,2,0.1538,0.0524
+Rutsiro,Transport & logistics,0,0.0,0.0487
+Rutsiro,Mining,0,0.0,0.0485
+Rutsiro,Public & other services,0,0.0,0.0853
+Burera,Agriculture & agro-processing,1,0.0556,0.7467
+Burera,Manufacturing,0,0.0,0.0275
+Burera,ICT,1,0.0556,0.0017
+Burera,Construction,9,0.5,0.0387
+Burera,Tourism & hospitality,0,0.0,0.0034
+Burera,Trade & retail,1,0.0556,0.0391
+Burera,Transport & logistics,6,0.3333,0.0273
+Burera,Mining,0,0.0,0.01
+Burera,Public & other services,0,0.0,0.1056
+Nyaruguru,Agriculture & agro-processing,0,0.0,0.5767
+Nyaruguru,Manufacturing,2,0.1111,0.0666
+Nyaruguru,ICT,5,0.2778,0.0027
+Nyaruguru,Construction,8,0.4444,0.0683
+Nyaruguru,Tourism & hospitality,0,0.0,0.0085
+Nyaruguru,Trade & retail,2,0.1111,0.0572
+Nyaruguru,Transport & logistics,1,0.0556,0.032
+Nyaruguru,Mining,0,0.0,0.0061
+Nyaruguru,Public & other services,0,0.0,0.1818
+Nyamasheke,Agriculture & agro-processing,2,0.0741,0.5958
+Nyamasheke,Manufacturing,8,0.2963,0.0569
+Nyamasheke,ICT,0,0.0,0.0029
+Nyamasheke,Construction,12,0.4444,0.0493
+Nyamasheke,Tourism & hospitality,2,0.0741,0.0069
+Nyamasheke,Trade & retail,2,0.0741,0.0543
+Nyamasheke,Transport & logistics,1,0.037,0.0548
+Nyamasheke,Mining,0,0.0,0.0139
+Nyamasheke,Public & other services,0,0.0,0.1652
+Nyamagabe,Agriculture & agro-processing,1,0.0263,0.635
+Nyamagabe,Manufacturing,10,0.2632,0.0463
+Nyamagabe,ICT,4,0.1053,0.0014
+Nyamagabe,Construction,14,0.3684,0.0472
+Nyamagabe,Tourism & hospitality,1,0.0263,0.0072
+Nyamagabe,Trade & retail,2,0.0526,0.0588
+Nyamagabe,Transport & logistics,5,0.1316,0.0347
+Nyamagabe,Mining,0,0.0,0.0063
+Nyamagabe,Public & other services,1,0.0263,0.1631
+Nyabihu,Agriculture & agro-processing,6,0.2609,0.684
+Nyabihu,Manufacturing,4,0.1739,0.043
+Nyabihu,ICT,2,0.087,0.0014
+Nyabihu,Construction,6,0.2609,0.0448
+Nyabihu,Tourism & hospitality,1,0.0435,0.0072
+Nyabihu,Trade & retail,2,0.087,0.0664
+Nyabihu,Transport & logistics,2,0.087,0.0605
+Nyabihu,Mining,0,0.0,0.0091
+Nyabihu,Public & other services,0,0.0,0.0836
+Gatsibo,Agriculture & agro-processing,5,0.1111,0.7093
+Gatsibo,Manufacturing,10,0.2222,0.0251
+Gatsibo,ICT,4,0.0889,0.0018
+Gatsibo,Construction,15,0.3333,0.0397
+Gatsibo,Tourism & hospitality,4,0.0889,0.0074
+Gatsibo,Trade & retail,5,0.1111,0.0561
+Gatsibo,Transport & logistics,0,0.0,0.0285
+Gatsibo,Mining,0,0.0,0.0091
+Gatsibo,Public & other services,2,0.0444,0.1231
+Karongi,Agriculture & agro-processing,4,0.1143,0.565
+Karongi,Manufacturing,5,0.1429,0.0402
+Karongi,ICT,7,0.2,0.0035
+Karongi,Construction,9,0.2571,0.0667
+Karongi,Tourism & hospitality,5,0.1429,0.0132
+Karongi,Trade & retail,3,0.0857,0.062
+Karongi,Transport & logistics,2,0.0571,0.0441
+Karongi,Mining,0,0.0,0.0094
+Karongi,Public & other services,0,0.0,0.1957
+Bugesera,Agriculture & agro-processing,0,0.0,0.4132
+Bugesera,Manufacturing,11,0.2683,0.0583
+Bugesera,ICT,5,0.122,0.0054
+Bugesera,Construction,16,0.3902,0.1137
+Bugesera,Tourism & hospitality,5,0.122,0.0151
+Bugesera,Trade & retail,2,0.0488,0.0973
+Bugesera,Transport & logistics,0,0.0,0.0554
+Bugesera,Mining,0,0.0,0.0152
+Bugesera,Public & other services,2,0.0488,0.2266
+Ngoma,Agriculture & agro-processing,3,0.0968,0.6674
+Ngoma,Manufacturing,5,0.1613,0.0325
+Ngoma,ICT,5,0.1613,0.0051
+Ngoma,Construction,9,0.2903,0.0404
+Ngoma,Tourism & hospitality,3,0.0968,0.008
+Ngoma,Trade & retail,2,0.0645,0.0665
+Ngoma,Transport & logistics,3,0.0968,0.0344
+Ngoma,Mining,0,0.0,0.0116
+Ngoma,Public & other services,1,0.0323,0.1341
+Nyagatare,Agriculture & agro-processing,0,0.0,0.699
+Nyagatare,Manufacturing,7,0.25,0.0319
+Nyagatare,ICT,2,0.0714,0.002
+Nyagatare,Construction,9,0.3214,0.0416
+Nyagatare,Tourism & hospitality,6,0.2143,0.0102
+Nyagatare,Trade & retail,3,0.1071,0.0612
+Nyagatare,Transport & logistics,1,0.0357,0.0201
+Nyagatare,Mining,0,0.0,0.0022
+Nyagatare,Public & other services,0,0.0,0.1316
+Ngororero,Agriculture & agro-processing,6,0.1667,0.5814
+Ngororero,Manufacturing,5,0.1389,0.0527
+Ngororero,ICT,3,0.0833,0.003
+Ngororero,Construction,16,0.4444,0.0798
+Ngororero,Tourism & hospitality,1,0.0278,0.0082
+Ngororero,Trade & retail,3,0.0833,0.0627
+Ngororero,Transport & logistics,2,0.0556,0.0317
+Ngororero,Mining,0,0.0,0.0395
+Ngororero,Public & other services,0,0.0,0.141
+Gisagara,Agriculture & agro-processing,0,0.0,0.6744
+Gisagara,Manufacturing,4,0.125,0.0385
+Gisagara,ICT,3,0.0938,0.0016
+Gisagara,Construction,19,0.5938,0.0629
+Gisagara,Tourism & hospitality,1,0.0312,0.0067
+Gisagara,Trade & retail,3,0.0938,0.0584
+Gisagara,Transport & logistics,0,0.0,0.0233
+Gisagara,Mining,0,0.0,0.0046
+Gisagara,Public & other services,2,0.0625,0.1295
+Kamonyi,Agriculture & agro-processing,0,0.0,0.3647
+Kamonyi,Manufacturing,5,0.1786,0.0536
+Kamonyi,ICT,8,0.2857,0.0052
+Kamonyi,Construction,12,0.4286,0.099
+Kamonyi,Tourism & hospitality,0,0.0,0.0151
+Kamonyi,Trade & retail,2,0.0714,0.0878
+Kamonyi,Transport & logistics,0,0.0,0.055
+Kamonyi,Mining,0,0.0,0.0675
+Kamonyi,Public & other services,1,0.0357,0.2521
+Muhanga,Agriculture & agro-processing,3,0.0361,0.3262
+Muhanga,Manufacturing,14,0.1687,0.0586
+Muhanga,ICT,15,0.1807,0.008
+Muhanga,Construction,22,0.2651,0.0731
+Muhanga,Tourism & hospitality,4,0.0482,0.0248
+Muhanga,Trade & retail,7,0.0843,0.1164
+Muhanga,Transport & logistics,13,0.1566,0.0603
+Muhanga,Mining,0,0.0,0.0667
+Muhanga,Public & other services,5,0.0602,0.2659
+Musanze,Agriculture & agro-processing,2,0.0308,0.4294
+Musanze,Manufacturing,9,0.1385,0.0689
+Musanze,ICT,14,0.2154,0.0061
+Musanze,Construction,20,0.3077,0.0941
+Musanze,Tourism & hospitality,10,0.1538,0.0201
+Musanze,Trade & retail,4,0.0615,0.1183
+Musanze,Transport & logistics,4,0.0615,0.074
+Musanze,Mining,0,0.0,0.0039
+Musanze,Public & other services,2,0.0308,0.1853
+Rulindo,Agriculture & agro-processing,7,0.1628,0.4503
+Rulindo,Manufacturing,9,0.2093,0.0632
+Rulindo,ICT,3,0.0698,0.0037
+Rulindo,Construction,13,0.3023,0.0862
+Rulindo,Tourism & hospitality,4,0.093,0.0107
+Rulindo,Trade & retail,2,0.0465,0.0777
+Rulindo,Transport & logistics,3,0.0698,0.0495
+Rulindo,Mining,0,0.0,0.0617
+Rulindo,Public & other services,2,0.0465,0.197
+Nyanza,Agriculture & agro-processing,1,0.012,0.5341
+Nyanza,Manufacturing,12,0.1446,0.0522
+Nyanza,ICT,24,0.2892,0.0019
+Nyanza,Construction,23,0.2771,0.0715
+Nyanza,Tourism & hospitality,4,0.0482,0.0111
+Nyanza,Trade & retail,5,0.0602,0.069
+Nyanza,Transport & logistics,12,0.1446,0.0393
+Nyanza,Mining,0,0.0,0.0168
+Nyanza,Public & other services,2,0.0241,0.2042
+Ruhango,Agriculture & agro-processing,2,0.0235,0.5104
+Ruhango,Manufacturing,17,0.2,0.0578
+Ruhango,ICT,17,0.2,0.0025
+Ruhango,Construction,24,0.2824,0.0636
+Ruhango,Tourism & hospitality,5,0.0588,0.0077
+Ruhango,Trade & retail,4,0.0471,0.0691
+Ruhango,Transport & logistics,13,0.1529,0.0615
+Ruhango,Mining,0,0.0,0.0218
+Ruhango,Public & other services,3,0.0353,0.2055
+Gakenke,Agriculture & agro-processing,4,0.1667,0.6286
+Gakenke,Manufacturing,11,0.4583,0.0361
+Gakenke,ICT,0,0.0,0.0014
+Gakenke,Construction,7,0.2917,0.0399
+Gakenke,Tourism & hospitality,0,0.0,0.005
+Gakenke,Trade & retail,1,0.0417,0.0441
+Gakenke,Transport & logistics,0,0.0,0.0362
+Gakenke,Mining,0,0.0,0.0702
+Gakenke,Public & other services,1,0.0417,0.1385
+Rusizi,Agriculture & agro-processing,0,0.0,0.4938
+Rusizi,Manufacturing,7,0.2333,0.0563
+Rusizi,ICT,4,0.1333,0.0035
+Rusizi,Construction,15,0.5,0.057
+Rusizi,Tourism & hospitality,3,0.1,0.0255
+Rusizi,Trade & retail,1,0.0333,0.0975
+Rusizi,Transport & logistics,0,0.0,0.0728
+Rusizi,Mining,0,0.0,0.0127
+Rusizi,Public & other services,0,0.0,0.1809
+Kirehe,Agriculture & agro-processing,2,0.087,0.6895
+Kirehe,Manufacturing,4,0.1739,0.0368
+Kirehe,ICT,3,0.1304,0.0026
+Kirehe,Construction,8,0.3478,0.0415
+Kirehe,Tourism & hospitality,4,0.1739,0.0119
+Kirehe,Trade & retail,1,0.0435,0.0604
+Kirehe,Transport & logistics,1,0.0435,0.0312
+Kirehe,Mining,0,0.0,0.002
+Kirehe,Public & other services,0,0.0,0.1241
+Rubavu,Agriculture & agro-processing,0,0.0,0.4008
+Rubavu,Manufacturing,12,0.2609,0.0438
+Rubavu,ICT,12,0.2609,0.0075
+Rubavu,Construction,8,0.1739,0.0761
+Rubavu,Tourism & hospitality,3,0.0652,0.0196
+Rubavu,Trade & retail,4,0.087,0.1793
+Rubavu,Transport & logistics,6,0.1304,0.0814
+Rubavu,Mining,0,0.0,0.0152
+Rubavu,Public & other services,1,0.0217,0.1764
+Kayonza,Agriculture & agro-processing,0,0.0,0.615
+Kayonza,Manufacturing,11,0.3056,0.0402
+Kayonza,ICT,3,0.0833,0.0019
+Kayonza,Construction,12,0.3333,0.0364
+Kayonza,Tourism & hospitality,4,0.1111,0.0105
+Kayonza,Trade & retail,1,0.0278,0.0833
+Kayonza,Transport & logistics,2,0.0556,0.0348
+Kayonza,Mining,0,0.0,0.016
+Kayonza,Public & other services,3,0.0833,0.1618
+Rwamagana,Agriculture & agro-processing,0,0.0,0.4419
+Rwamagana,Manufacturing,10,0.2273,0.0553
+Rwamagana,ICT,11,0.25,0.0039
+Rwamagana,Construction,13,0.2955,0.0807
+Rwamagana,Tourism & hospitality,4,0.0909,0.0126
+Rwamagana,Trade & retail,4,0.0909,0.0897
+Rwamagana,Transport & logistics,2,0.0455,0.0545
+Rwamagana,Mining,0,0.0,0.0267
+Rwamagana,Public & other services,0,0.0,0.2347
+Huye,Agriculture & agro-processing,6,0.1429,0.3602
+Huye,Manufacturing,6,0.1429,0.0595
+Huye,ICT,8,0.1905,0.0041
+Huye,Construction,12,0.2857,0.0709
+Huye,Tourism & hospitality,5,0.119,0.0249
+Huye,Trade & retail,2,0.0476,0.1115
+Huye,Transport & logistics,0,0.0,0.0458
+Huye,Mining,0,0.0,0.0096
+Huye,Public & other services,3,0.0714,0.3133
+Kicukiro,Agriculture & agro-processing,1,0.0106,0.0388
+Kicukiro,Manufacturing,14,0.1489,0.0605
+Kicukiro,ICT,18,0.1915,0.0179
+Kicukiro,Construction,24,0.2553,0.1272
+Kicukiro,Tourism & hospitality,19,0.2021,0.034
+Kicukiro,Trade & retail,5,0.0532,0.1593
+Kicukiro,Transport & logistics,8,0.0851,0.061
+Kicukiro,Mining,0,0.0,0.0034
+Kicukiro,Public & other services,5,0.0532,0.498
+Gasabo,Agriculture & agro-processing,3,0.0448,0.073
+Gasabo,Manufacturing,8,0.1194,0.0927
+Gasabo,ICT,18,0.2687,0.0166
+Gasabo,Construction,16,0.2388,0.1207
+Gasabo,Tourism & hospitality,10,0.1493,0.0356
+Gasabo,Trade & retail,4,0.0597,0.1713
+Gasabo,Transport & logistics,5,0.0746,0.0646
+Gasabo,Mining,0,0.0,0.0114
+Gasabo,Public & other services,3,0.0448,0.4142
+Nyarugenge,Agriculture & agro-processing,0,0.0,0.0687
+Nyarugenge,Manufacturing,12,0.2143,0.0707
+Nyarugenge,ICT,11,0.1964,0.0214
+Nyarugenge,Construction,11,0.1964,0.0904
+Nyarugenge,Tourism & hospitality,7,0.125,0.0473
+Nyarugenge,Trade & retail,6,0.1071,0.2445
+Nyarugenge,Transport & logistics,3,0.0536,0.0647
+Nyarugenge,Mining,0,0.0,0.0216
+Nyarugenge,Public & other services,6,0.1071,0.3707
