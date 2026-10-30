@@ -5,9 +5,15 @@ __pycache__/
 .venv/
 venv/
 
-# Raw NISR data and converted inputs (check NISR terms of use before sharing)
+# Raw NISR data. Small derived inputs are committed; the census person-level file is not.
+# If NISR's terms of use allow republishing it, delete the census_persons.csv line below.
 data/raw/*
 !data/raw/README.md
+!data/raw/rtb_trades.csv
+!data/raw/eicv7_poverty.csv
+!data/raw/lfs_employment.csv
+!data/raw/youth_unemployment.csv
+data/raw/census_persons.csv
 *.dta
 *.sav
 *.zip
