@@ -1,0 +1,91 @@
+province,sector,year,employed,n_obs
+Eastern,Agriculture & agro-processing,2024,634682.25,4083
+Eastern,Construction,2024,104507.1015625,723
+Eastern,ICT,2024,1577.37060546875,13
+Eastern,Manufacturing,2024,54193.84375,366
+Eastern,Mining,2024,17886.623046875,123
+Eastern,Public & other services,2024,203385.53125,1403
+Eastern,Tourism & hospitality,2024,37232.65625,254
+Eastern,Trade & retail,2024,139267.5,952
+Eastern,Transport & logistics,2024,56403.5859375,389
+Kigali,Agriculture & agro-processing,2024,55707.3515625,346
+Kigali,Construction,2024,105949.5625,688
+Kigali,ICT,2024,6947.8125,55
+Kigali,Manufacturing,2024,66431.7578125,428
+Kigali,Mining,2024,7341.2451171875,62
+Kigali,Public & other services,2024,265096.4375,1894
+Kigali,Tourism & hospitality,2024,43048.18359375,297
+Kigali,Trade & retail,2024,180522.703125,1295
+Kigali,Transport & logistics,2024,85379.328125,594
+Northern,Agriculture & agro-processing,2024,321849.625,2226
+Northern,Construction,2024,72350.484375,533
+Northern,ICT,2024,1106.739013671875,8
+Northern,Manufacturing,2024,33984.74609375,248
+Northern,Mining,2024,15830.138671875,112
+Northern,Public & other services,2024,114738.546875,835
+Northern,Tourism & hospitality,2024,19362.041015625,142
+Northern,Trade & retail,2024,85167.0390625,610
+Northern,Transport & logistics,2024,35062.71875,260
+Southern,Agriculture & agro-processing,2024,414476.78125,3246
+Southern,Construction,2024,66402.921875,580
+Southern,ICT,2024,782.367919921875,6
+Southern,Manufacturing,2024,52898.80859375,461
+Southern,Mining,2024,17809.78125,147
+Southern,Public & other services,2024,150359.03125,1276
+Southern,Tourism & hospitality,2024,28638.404296875,242
+Southern,Trade & retail,2024,100452.5,843
+Southern,Transport & logistics,2024,51511.90234375,444
+Western,Agriculture & agro-processing,2024,369406.59375,3321
+Western,Construction,2024,77938.5625,659
+Western,ICT,2024,1713.1964111328125,13
+Western,Manufacturing,2024,48368.8515625,397
+Western,Mining,2024,18679.0078125,154
+Western,Public & other services,2024,117941.3671875,935
+Western,Tourism & hospitality,2024,26166.1171875,223
+Western,Trade & retail,2024,117678.3046875,1054
+Western,Transport & logistics,2024,75155.1953125,654
+Eastern,Agriculture & agro-processing,2025,627068.61666,3858
+Eastern,Construction,2025,103578.82868,680
+Eastern,ICT,2025,1516.21028,11
+Eastern,Manufacturing,2025,57643.4674,364
+Eastern,Mining,2025,12086.09959,74
+Eastern,Public & other services,2025,215004.17036,1440
+Eastern,Tourism & hospitality,2025,51479.09691,327
+Eastern,Trade & retail,2025,160592.82572,1062
+Eastern,Transport & logistics,2025,66475.0188,430
+Kigali,Agriculture & agro-processing,2025,56612.41435,316
+Kigali,Construction,2025,112463.76704,686
+Kigali,ICT,2025,11208.11195,78
+Kigali,Manufacturing,2025,69418.12982,409
+Kigali,Mining,2025,10712.19612,76
+Kigali,Public & other services,2025,301780.15304,1961
+Kigali,Tourism & hospitality,2025,47322.58274,318
+Kigali,Trade & retail,2025,201769.4971,1356
+Kigali,Transport & logistics,2025,79336.69381,510
+Northern,Agriculture & agro-processing,2025,351150.90705,2433
+Northern,Construction,2025,64717.75505,456
+Northern,ICT,2025,536.3204000000001,3
+Northern,Manufacturing,2025,43048.09835,305
+Northern,Mining,2025,19953.3447,142
+Northern,Public & other services,2025,112218.83302,767
+Northern,Tourism & hospitality,2025,24755.00312,179
+Northern,Trade & retail,2025,98947.52193,684
+Northern,Transport & logistics,2025,51698.04993,359
+Southern,Agriculture & agro-processing,2025,462607.15432,3555
+Southern,Construction,2025,73788.80253,618
+Southern,ICT,2025,2368.96558,22
+Southern,Manufacturing,2025,50435.57465,409
+Southern,Mining,2025,21803.35786,177
+Southern,Public & other services,2025,144030.60325000001,1200
+Southern,Tourism & hospitality,2025,36060.07473,286
+Southern,Trade & retail,2025,118387.24943,976
+Southern,Transport & logistics,2025,60341.55542,492
+Western,Agriculture & agro-processing,2025,396847.53759,3337
+Western,Construction,2025,71960.17007,591
+Western,ICT,2025,1862.52343,15
+Western,Manufacturing,2025,48993.51355,397
+Western,Mining,2025,21159.96506,157
+Western,Public & other services,2025,125529.65794,1014
+Western,Tourism & hospitality,2025,27694.61179,226
+Western,Trade & retail,2025,147135.26985,1263
+Western,Transport & logistics,2025,82522.52445,693

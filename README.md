@@ -21,16 +21,31 @@ Census 2022 public microdata, Labour Force Surveys 2024 and 2025, EICV7 poverty 
 NST2, geoBoundaries district boundaries. Details and file formats: `data/raw/README.md`.
 
 ## Rebuild the numbers
-Python 3.13.
+Python 3.13. There are three ways to run the project, depending on what you have.
 
+**1. Just view the results (no data needed).** The computed tables are committed in `data/processed/` and
+`app/public/data/`, so the app runs as it is (see "Run the app").
+
+**2. Test the pipeline on synthetic data (no data needed).**
 ```
 pip install -r requirements.txt
-python pipeline/prepare_nisr_inputs.py --census <census folder> --lfs-earlier <lfs2024> --lfs-later <lfs2025> --eicv7 <eicv7.dta>
-python pipeline/extract_rtb.py <RTB accredited schools PDF>   # writes data/raw/rtb_trades.csv
-python pipeline/build_district_tables.py            # reads data/raw/, writes data/processed/ and app/public/data/
-python pipeline/build_district_tables.py --source sample   # synthetic test data
+python pipeline/build_district_tables.py --source sample
 python -m pytest tests
 ```
+The sample data is synthetic and the app labels it as such.
+
+**3. Reproduce the real results from the NISR files.** The original NISR and RTB files are included as compressed
+archives in `data/source_archives/` (see the README there). Unpack them, then rebuild everything:
+```
+pip install -r requirements.txt
+python pipeline/unpack_data.py                      # unpacks the archives into data/raw/source/
+python pipeline/prepare_nisr_inputs.py              # converts them into small CSVs in data/raw/
+python pipeline/extract_rtb.py                      # writes data/raw/rtb_trades.csv
+python pipeline/build_district_tables.py            # reads data/raw/, writes data/processed/ and app/public/data/
+python -m pytest tests
+```
+The files are NISR and RTB publications used under their terms of use; the original source of each is listed in
+`data/raw/README.md`. To use your own downloads instead, put them in `data/raw/source/` under the same names.
 The run prints youth population and score per district; the same figures are in `data/processed/checks.txt` and on
 the app's district pages. Random seed is fixed (42), so reruns give identical output.
 

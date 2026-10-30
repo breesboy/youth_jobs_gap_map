@@ -1,5 +1,42 @@
+# Python
 __pycache__/
+*.pyc
 .pytest_cache/
+.venv/
+venv/
+
+# Raw NISR data. Small derived inputs are committed; the census person-level file is not.
+# If NISR's terms of use allow republishing it, delete the census_persons.csv line below.
 data/raw/*
 !data/raw/README.md
-.venv/
+!data/raw/rtb_trades.csv
+!data/raw/eicv7_poverty.csv
+!data/raw/lfs_employment.csv
+!data/raw/youth_unemployment.csv
+data/raw/census_persons.csv
+*.dta
+*.sav
+*.zip
+!data/source_archives/*.zip
+
+# Node / Next.js
+node_modules/
+app/node_modules/
+app/.next/
+app/out/
+app/next-env.d.ts
+*.tsbuildinfo
+
+# Deployment
+.vercel/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and env files
+*.log
+.env
+.env.*
